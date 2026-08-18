@@ -6,4 +6,4 @@ __pycache__/
 figures/reproducibility/
 repro/verify/
 checkpoints/
-common/
+./common/
