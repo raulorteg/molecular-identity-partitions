@@ -1,0 +1,17 @@
+{
+  "arch": "GDSS",
+  "fingerprint": "morgan",
+  "K": 30,
+  "n_pairs": 435,
+  "n_pairs_skipped_low_fp_count": 0,
+  "ols_slope": -4.82608269038277e-05,
+  "ols_intercept": 0.9215736899251973,
+  "R2_distance_vs_chem_distance": 0.00036131200901245997,
+  "spearman_rho_d_vs_sim": -0.002867344943693358,
+  "spearman_p_alt_less": 0.47622465766509015,
+  "ols_slope_cos": -0.003557214155317244,
+  "ols_intercept_cos": 0.9236167765007104,
+  "R2_cosdist_vs_chem_distance": 0.0037718676846377752,
+  "spearman_rho_cos_vs_sim": -0.05449086596321796,
+  "spearman_p_cos_alt_greater": 0.8716173482741161
+}

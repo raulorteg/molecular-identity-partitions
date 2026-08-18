@@ -1,0 +1,17 @@
+{
+  "arch": "HierVAE",
+  "fingerprint": "morgan",
+  "K": 60,
+  "n_pairs": 1770,
+  "n_pairs_skipped_low_fp_count": 0,
+  "ols_slope": 0.005598215248514504,
+  "ols_intercept": 0.8424680124334433,
+  "R2_distance_vs_chem_distance": 0.04730413436308345,
+  "spearman_rho_d_vs_sim": -0.19204545275958987,
+  "spearman_p_alt_less": 1.8214240689603517e-16,
+  "ols_slope_cos": 0.03139977240320668,
+  "ols_intercept_cos": 0.855445180405717,
+  "R2_cosdist_vs_chem_distance": 0.05089786881672165,
+  "spearman_rho_cos_vs_sim": 0.20878821170099,
+  "spearman_p_cos_alt_greater": 3.4718171995507265e-19
+}

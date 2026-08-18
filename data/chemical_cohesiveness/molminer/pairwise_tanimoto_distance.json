@@ -1,0 +1,17 @@
+{
+  "arch": "MolMiner",
+  "fingerprint": "morgan",
+  "K": 30,
+  "n_pairs": 435,
+  "n_pairs_skipped_low_fp_count": 0,
+  "ols_slope": 0.01364027702483442,
+  "ols_intercept": 0.8215605748865192,
+  "R2_distance_vs_chem_distance": 0.331585185815236,
+  "spearman_rho_d_vs_sim": -0.5117251649100416,
+  "spearman_p_alt_less": 1.0527101492344632e-30,
+  "ols_slope_cos": 0.027721200124301338,
+  "ols_intercept_cos": 0.8525279302050325,
+  "R2_cosdist_vs_chem_distance": 0.12116308166676237,
+  "spearman_rho_cos_vs_sim": 0.3381958942276016,
+  "spearman_p_cos_alt_greater": 2.1148188393735383e-13
+}

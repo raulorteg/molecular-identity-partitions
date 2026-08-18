@@ -1,0 +1,1002 @@
+[
+  {
+    "alpha": 0.0,
+    "z_interpolated": "z_interpolated.npz (index 0)",
+    "smiles": "CC=CC=C(O)[BrH]C"
+  },
+  {
+    "alpha": 0.005025125628140704,
+    "z_interpolated": "z_interpolated.npz (index 1)",
+    "smiles": "CC=CC=C(O)[BrH]C"
+  },
+  {
+    "alpha": 0.010050251256281407,
+    "z_interpolated": "z_interpolated.npz (index 2)",
+    "smiles": "CC=CC=C(O)[BrH]C[SH](C)SNF"
+  },
+  {
+    "alpha": 0.01507537688442211,
+    "z_interpolated": "z_interpolated.npz (index 3)",
+    "smiles": "CC=CC=C(O)[BrH]C[SH](C)SNF"
+  },
+  {
+    "alpha": 0.020100502512562814,
+    "z_interpolated": "z_interpolated.npz (index 4)",
+    "smiles": "CC=CC=C(O)[BrH]C[SH](C)SNF"
+  },
+  {
+    "alpha": 0.02512562814070352,
+    "z_interpolated": "z_interpolated.npz (index 5)",
+    "smiles": "CC=CC=C(O)[BrH]C[SH](C)SNF"
+  },
+  {
+    "alpha": 0.03015075376884422,
+    "z_interpolated": "z_interpolated.npz (index 6)",
+    "smiles": "CC=CC=C(O)[BrH]C[SH](C)SNF"
+  },
+  {
+    "alpha": 0.035175879396984924,
+    "z_interpolated": "z_interpolated.npz (index 7)",
+    "smiles": "C[SH](N[BrH]C(O)=CC=CCF)SNF"
+  },
+  {
+    "alpha": 0.04020100502512563,
+    "z_interpolated": "z_interpolated.npz (index 8)",
+    "smiles": "C[SH](N[BrH]C(O)=CC=CCF)SNF"
+  },
+  {
+    "alpha": 0.04522613065326633,
+    "z_interpolated": "z_interpolated.npz (index 9)",
+    "smiles": "C[SH](N[BrH]C(O)=CC=CCF)SNF"
+  },
+  {
+    "alpha": 0.05025125628140704,
+    "z_interpolated": "z_interpolated.npz (index 10)",
+    "smiles": "CC=CC=C(O)[BrH]N(F)[SH](C)SNF"
+  },
+  {
+    "alpha": 0.05527638190954774,
+    "z_interpolated": "z_interpolated.npz (index 11)",
+    "smiles": "CC=CC=C(O)[BrH]N(F)[SH](C)SNF"
+  },
+  {
+    "alpha": 0.06030150753768844,
+    "z_interpolated": "z_interpolated.npz (index 12)",
+    "smiles": "CC=CC=C(O)[BrH]N(F)[SH](C)SNF"
+  },
+  {
+    "alpha": 0.06532663316582915,
+    "z_interpolated": "z_interpolated.npz (index 13)",
+    "smiles": "CC=CC=C(O)[BrH]N(F)[SH](C)SNF"
+  },
+  {
+    "alpha": 0.07035175879396985,
+    "z_interpolated": "z_interpolated.npz (index 14)",
+    "smiles": "COCN(CCC1CO1)NC(C)=CC=C(O)[BrH]N(F)[SH](C)SNF"
+  },
+  {
+    "alpha": 0.07537688442211056,
+    "z_interpolated": "z_interpolated.npz (index 15)",
+    "smiles": "COCN(CCC1CO1)NC(C)=CC=C(O)[BrH]N(F)[SH](C)SNF"
+  },
+  {
+    "alpha": 0.08040201005025126,
+    "z_interpolated": "z_interpolated.npz (index 16)",
+    "smiles": "C=S(SNF)N(F)[BrH]C(O)=CC=C(C)NN(CCC1CO1)COC"
+  },
+  {
+    "alpha": 0.08542713567839195,
+    "z_interpolated": "z_interpolated.npz (index 17)",
+    "smiles": "C=S(SNF)N(F)[BrH]C(O)=CC=C(C)NN(CCC1CO1)COC"
+  },
+  {
+    "alpha": 0.09045226130653267,
+    "z_interpolated": "z_interpolated.npz (index 18)",
+    "smiles": "C=S(SNF)N(F)[BrH]C(O)=CC=C(C)NN(CCC1CO1)COC"
+  },
+  {
+    "alpha": 0.09547738693467336,
+    "z_interpolated": "z_interpolated.npz (index 19)",
+    "smiles": "C=S(SNF)N(F)[BrH]C(O)=CC=C(C)NN(CCC1CO1)COC"
+  },
+  {
+    "alpha": 0.10050251256281408,
+    "z_interpolated": "z_interpolated.npz (index 20)",
+    "smiles": "C=S(SNF)N(F)[BrH]C(Cl)=CC=C(C)NN(CCC1CO1)COC"
+  },
+  {
+    "alpha": 0.10552763819095477,
+    "z_interpolated": "z_interpolated.npz (index 21)",
+    "smiles": "COCNNC(C)=CC=C(Cl)Br"
+  },
+  {
+    "alpha": 0.11055276381909548,
+    "z_interpolated": "z_interpolated.npz (index 22)",
+    "smiles": "COCNNC(C)=CC=C(Cl)Br"
+  },
+  {
+    "alpha": 0.11557788944723618,
+    "z_interpolated": "z_interpolated.npz (index 23)",
+    "smiles": "COCNNC(C)=CC=C(Cl)Br"
+  },
+  {
+    "alpha": 0.12060301507537688,
+    "z_interpolated": "z_interpolated.npz (index 24)",
+    "smiles": "CC(N)=CC=C(Cl)Br"
+  },
+  {
+    "alpha": 0.12562814070351758,
+    "z_interpolated": "z_interpolated.npz (index 25)",
+    "smiles": "CC(N)=CC=C(Cl)Br"
+  },
+  {
+    "alpha": 0.1306532663316583,
+    "z_interpolated": "z_interpolated.npz (index 26)",
+    "smiles": "CC(N)=CC=C(Cl)Br"
+  },
+  {
+    "alpha": 0.135678391959799,
+    "z_interpolated": "z_interpolated.npz (index 27)",
+    "smiles": "OC1CC[N+](=NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.1407035175879397,
+    "z_interpolated": "z_interpolated.npz (index 28)",
+    "smiles": "OC1CC[N+](=NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.1457286432160804,
+    "z_interpolated": "z_interpolated.npz (index 29)",
+    "smiles": "OC1CC[N+](=NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.15075376884422112,
+    "z_interpolated": "z_interpolated.npz (index 30)",
+    "smiles": "OC1CC[N+](=NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.15577889447236182,
+    "z_interpolated": "z_interpolated.npz (index 31)",
+    "smiles": "OC1CC[N+](=NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.16080402010050251,
+    "z_interpolated": "z_interpolated.npz (index 32)",
+    "smiles": "OC1CC[N+](=NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.1658291457286432,
+    "z_interpolated": "z_interpolated.npz (index 33)",
+    "smiles": "OC1CC[N+](=NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.1708542713567839,
+    "z_interpolated": "z_interpolated.npz (index 34)",
+    "smiles": "OC1CC[N+](=NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.17587939698492464,
+    "z_interpolated": "z_interpolated.npz (index 35)",
+    "smiles": "OC1CC[N+](=NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.18090452261306533,
+    "z_interpolated": "z_interpolated.npz (index 36)",
+    "smiles": "OC1CC[N+](=NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.18592964824120603,
+    "z_interpolated": "z_interpolated.npz (index 37)",
+    "smiles": "OC1CC[N+](=NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.19095477386934673,
+    "z_interpolated": "z_interpolated.npz (index 38)",
+    "smiles": "OC1CC[N+](=NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.19597989949748745,
+    "z_interpolated": "z_interpolated.npz (index 39)",
+    "smiles": "OC1CC[N+](=NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.20100502512562815,
+    "z_interpolated": "z_interpolated.npz (index 40)",
+    "smiles": "OC1CC[N+](=NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.20603015075376885,
+    "z_interpolated": "z_interpolated.npz (index 41)",
+    "smiles": "OC1CC[N+](=NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.21105527638190955,
+    "z_interpolated": "z_interpolated.npz (index 42)",
+    "smiles": "OC1CC[N+](=NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.21608040201005024,
+    "z_interpolated": "z_interpolated.npz (index 43)",
+    "smiles": "OC1CCN(NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.22110552763819097,
+    "z_interpolated": "z_interpolated.npz (index 44)",
+    "smiles": "OC1CCN(NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.22613065326633167,
+    "z_interpolated": "z_interpolated.npz (index 45)",
+    "smiles": "OC1CCN(NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.23115577889447236,
+    "z_interpolated": "z_interpolated.npz (index 46)",
+    "smiles": "OC1CCN(NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.23618090452261306,
+    "z_interpolated": "z_interpolated.npz (index 47)",
+    "smiles": "OC1CCN(NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.24120603015075376,
+    "z_interpolated": "z_interpolated.npz (index 48)",
+    "smiles": "OC1CCN(NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.24623115577889448,
+    "z_interpolated": "z_interpolated.npz (index 49)",
+    "smiles": "OC1CCN(NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.25125628140703515,
+    "z_interpolated": "z_interpolated.npz (index 50)",
+    "smiles": "OC1CCN(NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.2562814070351759,
+    "z_interpolated": "z_interpolated.npz (index 51)",
+    "smiles": "OC1CCN(NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.2613065326633166,
+    "z_interpolated": "z_interpolated.npz (index 52)",
+    "smiles": "OC1CCN(NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.2663316582914573,
+    "z_interpolated": "z_interpolated.npz (index 53)",
+    "smiles": "OC1CCN(NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.271356783919598,
+    "z_interpolated": "z_interpolated.npz (index 54)",
+    "smiles": "OC1CCN(NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.2763819095477387,
+    "z_interpolated": "z_interpolated.npz (index 55)",
+    "smiles": "OC1CCN(NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.2814070351758794,
+    "z_interpolated": "z_interpolated.npz (index 56)",
+    "smiles": "OC1CCN(NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.2864321608040201,
+    "z_interpolated": "z_interpolated.npz (index 57)",
+    "smiles": "OC1CCN(NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.2914572864321608,
+    "z_interpolated": "z_interpolated.npz (index 58)",
+    "smiles": "OC1CCN(NC=S(S)NF)C1"
+  },
+  {
+    "alpha": 0.2964824120603015,
+    "z_interpolated": "z_interpolated.npz (index 59)",
+    "smiles": "CN(F)S(S)=CNN1CCC(O)C1"
+  },
+  {
+    "alpha": 0.30150753768844224,
+    "z_interpolated": "z_interpolated.npz (index 60)",
+    "smiles": "CC(Cl)=CCOCN(F)S(S)=CNN1CCC(O)C1"
+  },
+  {
+    "alpha": 0.3065326633165829,
+    "z_interpolated": "z_interpolated.npz (index 61)",
+    "smiles": "CC(Cl)=CCOCN(F)S(S)=CNN1CCC(O)C1"
+  },
+  {
+    "alpha": 0.31155778894472363,
+    "z_interpolated": "z_interpolated.npz (index 62)",
+    "smiles": "CC(Cl)=CCOCN(F)S(S)=CNN1CCC(O)(CF)C1"
+  },
+  {
+    "alpha": 0.3165829145728643,
+    "z_interpolated": "z_interpolated.npz (index 63)",
+    "smiles": "CC(Cl)=CCOCN(F)S(S)=CNN1CCC(O)(CF)C1"
+  },
+  {
+    "alpha": 0.32160804020100503,
+    "z_interpolated": "z_interpolated.npz (index 64)",
+    "smiles": "CC(Cl)=CCOCN(F)[SH](S)CNN1CCC(O)(CF)C1"
+  },
+  {
+    "alpha": 0.32663316582914576,
+    "z_interpolated": "z_interpolated.npz (index 65)",
+    "smiles": "CC(Cl)=CCOCN(F)[SH](C)S"
+  },
+  {
+    "alpha": 0.3316582914572864,
+    "z_interpolated": "z_interpolated.npz (index 66)",
+    "smiles": "CC(Cl)=CCOCN(F)[SH](S)CC[O+]1CCC(O)(CF)C1"
+  },
+  {
+    "alpha": 0.33668341708542715,
+    "z_interpolated": "z_interpolated.npz (index 67)",
+    "smiles": "CC(Cl)=CCOCN(F)[SH](S)CC[O+]1CCC(O)(CF)C1"
+  },
+  {
+    "alpha": 0.3417085427135678,
+    "z_interpolated": "z_interpolated.npz (index 68)",
+    "smiles": "CC(Cl)=CCOCN(F)[SH](S)CC[O+]1CCC(O)(CF)C1"
+  },
+  {
+    "alpha": 0.34673366834170855,
+    "z_interpolated": "z_interpolated.npz (index 69)",
+    "smiles": "CC(Cl)=CCOCN(F)[SH](S)CC[O+]1CCOC(CF)C1"
+  },
+  {
+    "alpha": 0.35175879396984927,
+    "z_interpolated": "z_interpolated.npz (index 70)",
+    "smiles": "CC(Cl)=CCOCN(F)[SH](S)CC[O+]1CCOC(CF)C1"
+  },
+  {
+    "alpha": 0.35678391959798994,
+    "z_interpolated": "z_interpolated.npz (index 71)",
+    "smiles": "CCOC1COCC[SH](S)N(F)COCCC(C)(Cl)NOC1"
+  },
+  {
+    "alpha": 0.36180904522613067,
+    "z_interpolated": "z_interpolated.npz (index 72)",
+    "smiles": "CCOC1COCC[SH](S)N(F)COCCC(C)(Cl)NOC1"
+  },
+  {
+    "alpha": 0.36683417085427134,
+    "z_interpolated": "z_interpolated.npz (index 73)",
+    "smiles": "CC1=C(Cl)NOCC2C[O+](CCO2)CC[SH](S)N(F)[BrH]OC1"
+  },
+  {
+    "alpha": 0.37185929648241206,
+    "z_interpolated": "z_interpolated.npz (index 74)",
+    "smiles": "CC1=C(Cl)NOCC2C[O+](CCO2)CC[SH](S)N(F)[BrH]OC1"
+  },
+  {
+    "alpha": 0.3768844221105528,
+    "z_interpolated": "z_interpolated.npz (index 75)",
+    "smiles": "CC1C[O+](CC[SH](S)N(F)[BrH][O+](C)O)CCO1"
+  },
+  {
+    "alpha": 0.38190954773869346,
+    "z_interpolated": "z_interpolated.npz (index 76)",
+    "smiles": "CC1C[O+](CC[SH](S)N(F)[BrH][O+](C)O)CCO1"
+  },
+  {
+    "alpha": 0.3869346733668342,
+    "z_interpolated": "z_interpolated.npz (index 77)",
+    "smiles": "CC1C[O+](CC[SH](S)N(F)[BrH][O+](C)O)CCO1"
+  },
+  {
+    "alpha": 0.3919597989949749,
+    "z_interpolated": "z_interpolated.npz (index 78)",
+    "smiles": "C[O+](O)[BrH]N(F)[SH](S)CC[O+]1CCOCC1"
+  },
+  {
+    "alpha": 0.3969849246231156,
+    "z_interpolated": "z_interpolated.npz (index 79)",
+    "smiles": "C[O+](O)[BrH]NF"
+  },
+  {
+    "alpha": 0.4020100502512563,
+    "z_interpolated": "z_interpolated.npz (index 80)",
+    "smiles": "C[O+](O)[BrH]NF"
+  },
+  {
+    "alpha": 0.40703517587939697,
+    "z_interpolated": "z_interpolated.npz (index 81)",
+    "smiles": "C[O+](O)[BrH]NF"
+  },
+  {
+    "alpha": 0.4120603015075377,
+    "z_interpolated": "z_interpolated.npz (index 82)",
+    "smiles": "C[O+](O)[BrH]NF"
+  },
+  {
+    "alpha": 0.4170854271356784,
+    "z_interpolated": "z_interpolated.npz (index 83)",
+    "smiles": "CC(CSS)[O+]1CCOCC1"
+  },
+  {
+    "alpha": 0.4221105527638191,
+    "z_interpolated": "z_interpolated.npz (index 84)",
+    "smiles": "CC(CSS)[O+]1CCOCC1"
+  },
+  {
+    "alpha": 0.4271356783919598,
+    "z_interpolated": "z_interpolated.npz (index 85)",
+    "smiles": "CC(CSS)[O+]1CCOCC1"
+  },
+  {
+    "alpha": 0.4321608040201005,
+    "z_interpolated": "z_interpolated.npz (index 86)",
+    "smiles": "CC(CSS)[O+]1CCOCC1"
+  },
+  {
+    "alpha": 0.4371859296482412,
+    "z_interpolated": "z_interpolated.npz (index 87)",
+    "smiles": "CC(CSS)[O+]1CCOCC1"
+  },
+  {
+    "alpha": 0.44221105527638194,
+    "z_interpolated": "z_interpolated.npz (index 88)",
+    "smiles": "CC(CSS)[O+]1CCOCN1"
+  },
+  {
+    "alpha": 0.4472361809045226,
+    "z_interpolated": "z_interpolated.npz (index 89)",
+    "smiles": "CC(CSS)[O+]1CCOCN1"
+  },
+  {
+    "alpha": 0.45226130653266333,
+    "z_interpolated": "z_interpolated.npz (index 90)",
+    "smiles": "CC(CSS)[O+]1CC(C[O+](O)[BrH]NF)OCN1"
+  },
+  {
+    "alpha": 0.457286432160804,
+    "z_interpolated": "z_interpolated.npz (index 91)",
+    "smiles": "CC(CSS)[O+]1CC(C[O+](O)[BrH]NF)OCN1"
+  },
+  {
+    "alpha": 0.4623115577889447,
+    "z_interpolated": "z_interpolated.npz (index 92)",
+    "smiles": "CC(CSS)[O+]1CN(C[O+](O)[BrH]NF)OCN1"
+  },
+  {
+    "alpha": 0.46733668341708545,
+    "z_interpolated": "z_interpolated.npz (index 93)",
+    "smiles": "O[O+](CN1CONCO1)[BrH]NF"
+  },
+  {
+    "alpha": 0.4723618090452261,
+    "z_interpolated": "z_interpolated.npz (index 94)",
+    "smiles": "O[O+](CN1CONCO1)[BrH]NF"
+  },
+  {
+    "alpha": 0.47738693467336685,
+    "z_interpolated": "z_interpolated.npz (index 95)",
+    "smiles": "O[O+](CN1CONCO1)[BrH]NF"
+  },
+  {
+    "alpha": 0.4824120603015075,
+    "z_interpolated": "z_interpolated.npz (index 96)",
+    "smiles": "O[O+](CN1CONCO1)[BrH]NF"
+  },
+  {
+    "alpha": 0.48743718592964824,
+    "z_interpolated": "z_interpolated.npz (index 97)",
+    "smiles": "O[O+](CN1CONCO1)[BrH]NF"
+  },
+  {
+    "alpha": 0.49246231155778897,
+    "z_interpolated": "z_interpolated.npz (index 98)",
+    "smiles": "O[O+](CN1CONCO1)[BrH]N(F)CCCCSS"
+  },
+  {
+    "alpha": 0.49748743718592964,
+    "z_interpolated": "z_interpolated.npz (index 99)",
+    "smiles": "O[O+](CN1OCN2ONC(Cl)CCC1O2)[BrH]N(F)CCCCSS"
+  },
+  {
+    "alpha": 0.5025125628140703,
+    "z_interpolated": "z_interpolated.npz (index 100)",
+    "smiles": "O=C1CCC(Cl)NONCON1C[O+](O)[BrH]N(F)CCCCSS"
+  },
+  {
+    "alpha": 0.507537688442211,
+    "z_interpolated": "z_interpolated.npz (index 101)",
+    "smiles": "O=C1CCC(Cl)NONCON1C[O+](O)[BrH]N(F)CCCCSS"
+  },
+  {
+    "alpha": 0.5125628140703518,
+    "z_interpolated": "z_interpolated.npz (index 102)",
+    "smiles": "O=C1CCC(Cl)NONCON1C[O+](O)[BrH]N(F)CCCCSS"
+  },
+  {
+    "alpha": 0.5175879396984925,
+    "z_interpolated": "z_interpolated.npz (index 103)",
+    "smiles": "O=C1CCC(Cl)NONCON1C[O+](O)[BrH]N(F)CCCCSS"
+  },
+  {
+    "alpha": 0.5226130653266332,
+    "z_interpolated": "z_interpolated.npz (index 104)",
+    "smiles": "NCON(C[O+](O)[BrH]N(F)CCCCSS)C(=O)CCC(Cl)NO"
+  },
+  {
+    "alpha": 0.5276381909547738,
+    "z_interpolated": "z_interpolated.npz (index 105)",
+    "smiles": "NCON(C[O+](O)[BrH]N(F)CCCCSS)C(=O)CCC(Cl)NO"
+  },
+  {
+    "alpha": 0.5326633165829145,
+    "z_interpolated": "z_interpolated.npz (index 106)",
+    "smiles": "NCON(C[O+](O)[BrH]NCCC(F)CSS)C(=O)CCC(Cl)NO"
+  },
+  {
+    "alpha": 0.5376884422110553,
+    "z_interpolated": "z_interpolated.npz (index 107)",
+    "smiles": "NCON(C[O+](O)[BrH]NCCC(F)CSS)C(=O)CCC(Cl)NO"
+  },
+  {
+    "alpha": 0.542713567839196,
+    "z_interpolated": "z_interpolated.npz (index 108)",
+    "smiles": "O=C1NCON1C[O+](O)[BrH]NCCC(F)CSS"
+  },
+  {
+    "alpha": 0.5477386934673367,
+    "z_interpolated": "z_interpolated.npz (index 109)",
+    "smiles": "O=C1NCON1C[O+](O)[BrH]NCCC(F)CSS"
+  },
+  {
+    "alpha": 0.5527638190954774,
+    "z_interpolated": "z_interpolated.npz (index 110)",
+    "smiles": "O=C1NCON1C[O+](O)[BrH]NCCC(F)CSS"
+  },
+  {
+    "alpha": 0.5577889447236181,
+    "z_interpolated": "z_interpolated.npz (index 111)",
+    "smiles": "O=C(CCC(Cl)NO)NCONC[O+](O)[BrH]NCCC(F)CSS"
+  },
+  {
+    "alpha": 0.5628140703517588,
+    "z_interpolated": "z_interpolated.npz (index 112)",
+    "smiles": "O=C(CCC(Cl)NO)NCONC[O+](O)[BrH]NCCC(F)CSS"
+  },
+  {
+    "alpha": 0.5678391959798995,
+    "z_interpolated": "z_interpolated.npz (index 113)",
+    "smiles": "O=C1CCC(Cl)NOSSCC(F)CCN[BrH][O+](O)CNOCN1"
+  },
+  {
+    "alpha": 0.5728643216080402,
+    "z_interpolated": "z_interpolated.npz (index 114)",
+    "smiles": "O=C1CCC(Cl)NOSSCC(F)CCN[BrH][O+](O)CNOCN1"
+  },
+  {
+    "alpha": 0.577889447236181,
+    "z_interpolated": "z_interpolated.npz (index 115)",
+    "smiles": "NC(Cl)CCC(=O)NCONC[O+](O)[BrH]NCCC(F)CSSO"
+  },
+  {
+    "alpha": 0.5829145728643216,
+    "z_interpolated": "z_interpolated.npz (index 116)",
+    "smiles": "NC(Cl)CCC(=O)NCONC[O+](O)[BrH]NCCC(F)CSSO"
+  },
+  {
+    "alpha": 0.5879396984924623,
+    "z_interpolated": "z_interpolated.npz (index 117)",
+    "smiles": "NC(Cl)CCC(=O)NCONC[O+](O)[BrH]NCCC(F)CSSO"
+  },
+  {
+    "alpha": 0.592964824120603,
+    "z_interpolated": "z_interpolated.npz (index 118)",
+    "smiles": "NC(Cl)CCC(=O)NCONC[O+](O)[BrH]NCCC(F)CSSO"
+  },
+  {
+    "alpha": 0.5979899497487438,
+    "z_interpolated": "z_interpolated.npz (index 119)",
+    "smiles": "NC(Cl)CCC(=O)NCONC[O+](O)[BrH]NCCC(F)CSSO"
+  },
+  {
+    "alpha": 0.6030150753768845,
+    "z_interpolated": "z_interpolated.npz (index 120)",
+    "smiles": "O=C1CCCN[BrH](=NCC(Cl)C(F)CSSO)[O+](O)CNOCN1"
+  },
+  {
+    "alpha": 0.6080402010050251,
+    "z_interpolated": "z_interpolated.npz (index 121)",
+    "smiles": "O=C1CCCN[BrH](=NCC(Cl)C(F)CSSO)[O+](O)CNOCN1"
+  },
+  {
+    "alpha": 0.6130653266331658,
+    "z_interpolated": "z_interpolated.npz (index 122)",
+    "smiles": "O=C1CCCN[BrH](=NCC(Cl)C(F)CSSO)[O+](O)CNOCN1"
+  },
+  {
+    "alpha": 0.6180904522613065,
+    "z_interpolated": "z_interpolated.npz (index 123)",
+    "smiles": "O=C1CCCN[BrH](=NCC(Cl)C(F)CSSO)OCNOCN1"
+  },
+  {
+    "alpha": 0.6231155778894473,
+    "z_interpolated": "z_interpolated.npz (index 124)",
+    "smiles": "O=C1CCCN[BrH](=NC=C([ClH]O)C(F)CSSO)OCNOCN1"
+  },
+  {
+    "alpha": 0.628140703517588,
+    "z_interpolated": "z_interpolated.npz (index 125)",
+    "smiles": "O=C1CCCN[BrH](=NC=C([ClH]O)C(F)CSSO)OCNOCN1"
+  },
+  {
+    "alpha": 0.6331658291457286,
+    "z_interpolated": "z_interpolated.npz (index 126)",
+    "smiles": "O=C1CCCN[BrH](=NCC([ClH]O)C(F)CSSO)OCNOCN1"
+  },
+  {
+    "alpha": 0.6381909547738693,
+    "z_interpolated": "z_interpolated.npz (index 127)",
+    "smiles": "N=[BrH]1NCCCC(=O)NCONCO1"
+  },
+  {
+    "alpha": 0.6432160804020101,
+    "z_interpolated": "z_interpolated.npz (index 128)",
+    "smiles": "N=[BrH]1NCCCC(=O)NCONCO1"
+  },
+  {
+    "alpha": 0.6482412060301508,
+    "z_interpolated": "z_interpolated.npz (index 129)",
+    "smiles": "N[BrH]1=[O+]CNOCNC(=O)CCCN1"
+  },
+  {
+    "alpha": 0.6532663316582915,
+    "z_interpolated": "z_interpolated.npz (index 130)",
+    "smiles": "CCN(CC(=O)NCONC)[BrH](N)=O"
+  },
+  {
+    "alpha": 0.6582914572864321,
+    "z_interpolated": "z_interpolated.npz (index 131)",
+    "smiles": "CCN(CC(=O)NCONC)[BrH](N)=O"
+  },
+  {
+    "alpha": 0.6633165829145728,
+    "z_interpolated": "z_interpolated.npz (index 132)",
+    "smiles": "CCN(CC(=O)N(CONC)C(SCO)C(F)C(C)[ClH]O)[BrH](N)=O"
+  },
+  {
+    "alpha": 0.6683417085427136,
+    "z_interpolated": "z_interpolated.npz (index 133)",
+    "smiles": "CCN(CC(=O)N(CONC)CSCO)[BrH](N)=O"
+  },
+  {
+    "alpha": 0.6733668341708543,
+    "z_interpolated": "z_interpolated.npz (index 134)",
+    "smiles": "CCN1CC(=O)N(CSCO)CO[N+]2=CO[BrH]1=N2"
+  },
+  {
+    "alpha": 0.678391959798995,
+    "z_interpolated": "z_interpolated.npz (index 135)",
+    "smiles": "CO[N+]1=CO[BrH](N2CCC(SCO)NC(=O)C2)=N1"
+  },
+  {
+    "alpha": 0.6834170854271356,
+    "z_interpolated": "z_interpolated.npz (index 136)",
+    "smiles": "CO[N+]1=CO[BrH](N2CCC(SCO)NC(=O)C2)=N1"
+  },
+  {
+    "alpha": 0.6884422110552764,
+    "z_interpolated": "z_interpolated.npz (index 137)",
+    "smiles": "O=C1CN([BrH]2=NN=CO2)CCC(SCO)N1"
+  },
+  {
+    "alpha": 0.6934673366834171,
+    "z_interpolated": "z_interpolated.npz (index 138)",
+    "smiles": "O=C1CN([BrH]2=NN=CO2)CCC(SCO)N1"
+  },
+  {
+    "alpha": 0.6984924623115578,
+    "z_interpolated": "z_interpolated.npz (index 139)",
+    "smiles": "CCC(NC(=O)CN[BrH]1=NN=CO1)SCO"
+  },
+  {
+    "alpha": 0.7035175879396985,
+    "z_interpolated": "z_interpolated.npz (index 140)",
+    "smiles": "CC(C)(NC(=O)CN[BrH]1=NN=CO1)SCO"
+  },
+  {
+    "alpha": 0.7085427135678392,
+    "z_interpolated": "z_interpolated.npz (index 141)",
+    "smiles": "CC(C)(NC(=O)CN[BrH]1=NN=CO1)SCO"
+  },
+  {
+    "alpha": 0.7135678391959799,
+    "z_interpolated": "z_interpolated.npz (index 142)",
+    "smiles": "CC(C)(NC(=O)CN[BrH]1=NN=CO1)SCO"
+  },
+  {
+    "alpha": 0.7185929648241206,
+    "z_interpolated": "z_interpolated.npz (index 143)",
+    "smiles": "CC(C)(NC(=O)CN[BrH]1=NN=CO1)SCO"
+  },
+  {
+    "alpha": 0.7236180904522613,
+    "z_interpolated": "z_interpolated.npz (index 144)",
+    "smiles": "CC(C)(NC(=O)CN[BrH]1=NN=CO1)SCO"
+  },
+  {
+    "alpha": 0.7286432160804021,
+    "z_interpolated": "z_interpolated.npz (index 145)",
+    "smiles": "CC(C)(NC(=O)CN[BrH]1=NN=CO1)SCO"
+  },
+  {
+    "alpha": 0.7336683417085427,
+    "z_interpolated": "z_interpolated.npz (index 146)",
+    "smiles": "CC(C)(NC(=O)CN[BrH]1=NN=CO1)SCO"
+  },
+  {
+    "alpha": 0.7386934673366834,
+    "z_interpolated": "z_interpolated.npz (index 147)",
+    "smiles": "CC(C)(NC(=O)CN[BrH]1=NN=CO1)SCO"
+  },
+  {
+    "alpha": 0.7437185929648241,
+    "z_interpolated": "z_interpolated.npz (index 148)",
+    "smiles": "CC(C)(NC(=O)CN[BrH]1=NN=CO1)SCO"
+  },
+  {
+    "alpha": 0.7487437185929648,
+    "z_interpolated": "z_interpolated.npz (index 149)",
+    "smiles": "CC(C)(NC(=O)CN[BrH]1=NN=CO1)SCO"
+  },
+  {
+    "alpha": 0.7537688442211056,
+    "z_interpolated": "z_interpolated.npz (index 150)",
+    "smiles": "C[ClH]C(C)C[ClH]OCC(O)SC(C)(C)NC(=O)CN[BrH]1=NN=CO1"
+  },
+  {
+    "alpha": 0.7587939698492463,
+    "z_interpolated": "z_interpolated.npz (index 151)",
+    "smiles": "C[ClH]C(C)C[ClH]OCC1OC2=NN=[BrH](NCC(=O)NC(C)(C)S1)O2"
+  },
+  {
+    "alpha": 0.7638190954773869,
+    "z_interpolated": "z_interpolated.npz (index 152)",
+    "smiles": "C[ClH]C(C)C[ClH]OCC1OC2=NN=[BrH](NCC(=O)NC(C)(C)S1)O2"
+  },
+  {
+    "alpha": 0.7688442211055276,
+    "z_interpolated": "z_interpolated.npz (index 153)",
+    "smiles": "C[ClH]C(C)C[ClH]OCC1OC2=NN=[BrH](NCC(=O)NC(C)(C)S1)O2"
+  },
+  {
+    "alpha": 0.7738693467336684,
+    "z_interpolated": "z_interpolated.npz (index 154)",
+    "smiles": "C[ClH]C(C)C[ClH]OCC1OC2=NN=[BrH](NCC(=O)NC(C)(C)S1)O2"
+  },
+  {
+    "alpha": 0.7788944723618091,
+    "z_interpolated": "z_interpolated.npz (index 155)",
+    "smiles": "C[ClH]C(C)C[ClH]OCC1OC2=NN=[BrH](NCC(=O)NC(C)(C)S1)O2"
+  },
+  {
+    "alpha": 0.7839195979899498,
+    "z_interpolated": "z_interpolated.npz (index 156)",
+    "smiles": "C[ClH]C(C)C[ClH]OCC1OC2=NN=[BrH](NCC(=O)NC(C)(C)S1)O2"
+  },
+  {
+    "alpha": 0.7889447236180904,
+    "z_interpolated": "z_interpolated.npz (index 157)",
+    "smiles": "C[ClH]C(C)C[ClH]OCC1OC2=NN=[BrH](NCC(=O)NC(C)(C)S1)O2"
+  },
+  {
+    "alpha": 0.7939698492462312,
+    "z_interpolated": "z_interpolated.npz (index 158)",
+    "smiles": "C[ClH]C(C)C[ClH]OCC1OC2=NN=[BrH](NCC(=O)NC(C)(C)S1)O2"
+  },
+  {
+    "alpha": 0.7989949748743719,
+    "z_interpolated": "z_interpolated.npz (index 159)",
+    "smiles": "C[ClH]C(C)C[ClH]OCC1OC2=NN=[BrH](NCC(=O)NC(C)(C)S1)O2"
+  },
+  {
+    "alpha": 0.8040201005025126,
+    "z_interpolated": "z_interpolated.npz (index 160)",
+    "smiles": "C[ClH]C(C)C[ClH]OCC1OC2=NN=[BrH](NCC(=O)NC(C)(C)S1)O2"
+  },
+  {
+    "alpha": 0.8090452261306533,
+    "z_interpolated": "z_interpolated.npz (index 161)",
+    "smiles": "C[ClH]C(C)C[ClH]OCC1OC2=NN=[BrH](NCC(=O)NC(C)(C)S1)O2"
+  },
+  {
+    "alpha": 0.8140703517587939,
+    "z_interpolated": "z_interpolated.npz (index 162)",
+    "smiles": "C[ClH]C(C)C[ClH]OCC1OC2=NN=[BrH](NCC(=O)NC(C)(C)S1)O2"
+  },
+  {
+    "alpha": 0.8190954773869347,
+    "z_interpolated": "z_interpolated.npz (index 163)",
+    "smiles": "C[ClH]C(C)C[ClH]OCCOC1=NN=[BrH](NCC(=O)NC(C)(S)S)O1"
+  },
+  {
+    "alpha": 0.8241206030150754,
+    "z_interpolated": "z_interpolated.npz (index 164)",
+    "smiles": "C[ClH]C(C)C[ClH]OCCOC1=NN=[BrH](NCC(=O)NC(C)(S)S)O1"
+  },
+  {
+    "alpha": 0.8291457286432161,
+    "z_interpolated": "z_interpolated.npz (index 165)",
+    "smiles": "C[ClH]C(C)C[ClH]OCCOC1=NN=[BrH](NSC(=O)NC(C)(S)S)O1"
+  },
+  {
+    "alpha": 0.8341708542713568,
+    "z_interpolated": "z_interpolated.npz (index 166)",
+    "smiles": "C[ClH]C(C)C[ClH]OCCOC1=NN=[BrH](NSC(=O)NC(C)(S)S)O1"
+  },
+  {
+    "alpha": 0.8391959798994975,
+    "z_interpolated": "z_interpolated.npz (index 167)",
+    "smiles": "C[ClH]C(C)C[ClH]OCCOC1=NN=[BrH](NSC(=O)NC(C)(S)S)O1"
+  },
+  {
+    "alpha": 0.8442211055276382,
+    "z_interpolated": "z_interpolated.npz (index 168)",
+    "smiles": "C[ClH]C(C)C[ClH]OCCOC1=NN=[BrH](NSC(=O)NC(C)(S)S)O1"
+  },
+  {
+    "alpha": 0.8492462311557789,
+    "z_interpolated": "z_interpolated.npz (index 169)",
+    "smiles": "C[ClH]C(C)C[ClH]OCCOC1=NN=[BrH](NSC(=O)NC(C)(S)S)O1"
+  },
+  {
+    "alpha": 0.8542713567839196,
+    "z_interpolated": "z_interpolated.npz (index 170)",
+    "smiles": "C[ClH]C1CC1[ClH]OCCOC1=NN=[BrH](NSC(=O)NC(C)(S)S)O1"
+  },
+  {
+    "alpha": 0.8592964824120604,
+    "z_interpolated": "z_interpolated.npz (index 171)",
+    "smiles": "CC(S)(S)NC(=O)SN[BrH]1=NN=C(OCCO)O1"
+  },
+  {
+    "alpha": 0.864321608040201,
+    "z_interpolated": "z_interpolated.npz (index 172)",
+    "smiles": "CC(S)(Cl)NC(=O)SN[BrH]1=NN=C(OCCO)O1"
+  },
+  {
+    "alpha": 0.8693467336683417,
+    "z_interpolated": "z_interpolated.npz (index 173)",
+    "smiles": "CC(S)(Cl)NC(=O)SN[BrH]1=NN=C(OCCO)O1"
+  },
+  {
+    "alpha": 0.8743718592964824,
+    "z_interpolated": "z_interpolated.npz (index 174)",
+    "smiles": "CC(S)(Cl)NC(=O)SN[BrH]1=NN=C(OCCO)O1"
+  },
+  {
+    "alpha": 0.8793969849246231,
+    "z_interpolated": "z_interpolated.npz (index 175)",
+    "smiles": "CC(S)(Cl)NC(=O)SN[BrH]1=NN=C(OCCO)O1"
+  },
+  {
+    "alpha": 0.8844221105527639,
+    "z_interpolated": "z_interpolated.npz (index 176)",
+    "smiles": "CC(S)(Cl)NC(=O)SN[BrH]1=NN=C(OCCO)O1"
+  },
+  {
+    "alpha": 0.8894472361809045,
+    "z_interpolated": "z_interpolated.npz (index 177)",
+    "smiles": "CC(S)(Cl)NC(=O)SN[BrH]1=NN=C(OCCO)O1"
+  },
+  {
+    "alpha": 0.8944723618090452,
+    "z_interpolated": "z_interpolated.npz (index 178)",
+    "smiles": "CC(S)(Cl)NC(=O)SN[BrH]1=NN=C(OCCO)O1"
+  },
+  {
+    "alpha": 0.8994974874371859,
+    "z_interpolated": "z_interpolated.npz (index 179)",
+    "smiles": "NC(=O)SN[BrH]1=NN=C(OCCO)O1"
+  },
+  {
+    "alpha": 0.9045226130653267,
+    "z_interpolated": "z_interpolated.npz (index 180)",
+    "smiles": "NC(=O)SN[BrH]1=NN=C(OCCO)O1"
+  },
+  {
+    "alpha": 0.9095477386934674,
+    "z_interpolated": "z_interpolated.npz (index 181)",
+    "smiles": "NC(=O)SN[BrH]1=NN=C(OCCO)O1"
+  },
+  {
+    "alpha": 0.914572864321608,
+    "z_interpolated": "z_interpolated.npz (index 182)",
+    "smiles": "NC(=O)SN[BrH]1=NN=C(OCCO)O1"
+  },
+  {
+    "alpha": 0.9195979899497487,
+    "z_interpolated": "z_interpolated.npz (index 183)",
+    "smiles": "NC(=O)SN[BrH]1=NN=C(OCCO)O1"
+  },
+  {
+    "alpha": 0.9246231155778895,
+    "z_interpolated": "z_interpolated.npz (index 184)",
+    "smiles": "NC(=O)SN[BrH]1=NN=C(OCCO)O1"
+  },
+  {
+    "alpha": 0.9296482412060302,
+    "z_interpolated": "z_interpolated.npz (index 185)",
+    "smiles": "NC(=O)SN[BrH]1=NN=C(OCCO)O1"
+  },
+  {
+    "alpha": 0.9346733668341709,
+    "z_interpolated": "z_interpolated.npz (index 186)",
+    "smiles": "NC(=O)SN[BrH]1=NN=C(OCCO)[O+]1C[ClH]C1NC1Cl"
+  },
+  {
+    "alpha": 0.9396984924623115,
+    "z_interpolated": "z_interpolated.npz (index 187)",
+    "smiles": "NC(=O)SN[BrH]1=NN=C(OCCO)[O+]1C[ClH]C1NC1Cl"
+  },
+  {
+    "alpha": 0.9447236180904522,
+    "z_interpolated": "z_interpolated.npz (index 188)",
+    "smiles": "N=C(OCCO)[O+](C[ClH]C1NC1Cl)Br(F)NSC(N)=O"
+  },
+  {
+    "alpha": 0.949748743718593,
+    "z_interpolated": "z_interpolated.npz (index 189)",
+    "smiles": "NC(=O)SNBr(F)OC[ClH]C1NC1Cl"
+  },
+  {
+    "alpha": 0.9547738693467337,
+    "z_interpolated": "z_interpolated.npz (index 190)",
+    "smiles": "NC(=O)SNBr(F)OC[ClH]C1NC1Cl"
+  },
+  {
+    "alpha": 0.9597989949748744,
+    "z_interpolated": "z_interpolated.npz (index 191)",
+    "smiles": "NC(=O)SNBr(F)OC[ClH]C1NC1Cl"
+  },
+  {
+    "alpha": 0.964824120603015,
+    "z_interpolated": "z_interpolated.npz (index 192)",
+    "smiles": "NC(=O)SNBr(F)OC[ClH]C1NC1Cl"
+  },
+  {
+    "alpha": 0.9698492462311558,
+    "z_interpolated": "z_interpolated.npz (index 193)",
+    "smiles": "NC(=O)[SH]=NBr(F)OC[ClH]C1NC1Cl"
+  },
+  {
+    "alpha": 0.9748743718592965,
+    "z_interpolated": "z_interpolated.npz (index 194)",
+    "smiles": "NC(=O)[SH]=NBr(F)OC[ClH]C1NC1Cl"
+  },
+  {
+    "alpha": 0.9798994974874372,
+    "z_interpolated": "z_interpolated.npz (index 195)",
+    "smiles": "NC(=O)[SH]=NBr(F)OC[ClH]C1NC1Cl"
+  },
+  {
+    "alpha": 0.9849246231155779,
+    "z_interpolated": "z_interpolated.npz (index 196)",
+    "smiles": "NC(=O)[SH]=NBr(F)OC[ClH]C1NC1Cl"
+  },
+  {
+    "alpha": 0.9899497487437187,
+    "z_interpolated": "z_interpolated.npz (index 197)",
+    "smiles": "NC(=O)[SH]=NBr(F)OC[ClH]C1CN1"
+  },
+  {
+    "alpha": 0.9949748743718593,
+    "z_interpolated": "z_interpolated.npz (index 198)",
+    "smiles": "OCCOC=NN=C1OCl(C2CN2)COBr(F)N=[SH]1"
+  },
+  {
+    "alpha": 1.0,
+    "z_interpolated": "z_interpolated.npz (index 199)",
+    "smiles": "OCl(COBr(F)N=S)C1CN1"
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "arch": "MolMiner",
+  "K": 30,
+  "n_pairs": 435,
+  "conventions": {
+    "canonical": {
+      "universe_N": 63789,
+      "median_ball_classes": 1886.5,
+      "median_J": 0.0,
+      "mean_J": 6.71754724863741e-05,
+      "max_J": 0.009523809523809525,
+      "dropped_frac": 0.0
+    },
+    "inchikey": {
+      "universe_N": 63698,
+      "median_ball_classes": 1886.5,
+      "median_J": 0.0,
+      "mean_J": 6.724396216795456e-05,
+      "max_J": 0.009523809523809525,
+      "dropped_frac": 0.0
+    },
+    "murcko": {
+      "universe_N": 11678,
+      "median_ball_classes": 245.5,
+      "median_J": 0.0014716703458425313,
+      "mean_J": 0.005102481129576171,
+      "max_J": 0.08088235294117647,
+      "dropped_frac": 0.008270935806259594
+    },
+    "murcko_generic": {
+      "universe_N": 5039,
+      "median_ball_classes": 153.5,
+      "median_J": 0.023516237402015677,
+      "mean_J": 0.03739763235712543,
+      "max_J": 0.2916666666666667,
+      "dropped_frac": 0.008270935806259594
+    },
+    "formula": {
+      "universe_N": 10043,
+      "median_ball_classes": 317.5,
+      "median_J": 0.001443001443001443,
+      "mean_J": 0.01039207975038548,
+      "max_J": 0.16853932584269662,
+      "dropped_frac": 0.0
+    },
+    "composition": {
+      "universe_N": 33,
+      "median_ball_classes": 7.0,
+      "median_J": 0.2857142857142857,
+      "mean_J": 0.31313456542479334,
+      "max_J": 1.0,
+      "dropped_frac": 0.0
+    }
+  }
+}

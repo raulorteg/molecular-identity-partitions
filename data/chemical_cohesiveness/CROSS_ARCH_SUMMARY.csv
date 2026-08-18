@@ -1,0 +1,4 @@
+architecture,K,median_W,median_A,median_R,AUC_W_vs_A,AUC_W_vs_R,AUC_A_vs_R,R2_d_vs_chemD,Spearman_rho_d_vs_T,Spearman_p_alt_less,per_ball_AUC_median,per_ball_AUC_min,per_ball_AUC_max,n_balls_AUC_gt_0p5
+MolMiner,30,0.2029,0.1212,0.125,0.8426,0.8245,0.4704,0.3316,-0.5117,1.05e-30,0.8706,0.7078,0.9983,30
+HierVAE,60,0.2034,0.1143,0.1169,0.8684,0.8568,0.4804,0.0473,-0.192,1.82e-16,0.9028,0.6831,0.9938,60
+GDSS,30,0.0833,0.08,0.08,0.5234,0.5224,0.496,0.0004,-0.0029,4.76e-01,0.5255,0.5009,0.5564,30

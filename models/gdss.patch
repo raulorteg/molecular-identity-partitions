@@ -1,0 +1,132 @@
+diff --git a/sde.py b/sde.py
+index 51616f0..452dbd9 100644
+--- a/sde.py
++++ b/sde.py
+@@ -216,7 +216,7 @@ class VESDE(SDE):
+     timestep = (t * (self.N - 1) / self.T).long()
+     sigma = self.discrete_sigmas.to(t.device)[timestep]
+     adjacent_sigma = torch.where(timestep == 0, torch.zeros_like(t),
+-                                 self.discrete_sigmas[timestep - 1].to(t.device))
++                                 self.discrete_sigmas.to(t.device)[timestep - 1])
+     f = torch.zeros_like(x)
+     G = torch.sqrt(sigma ** 2 - adjacent_sigma ** 2)
+     return f, G
+diff --git a/solver.py b/solver.py
+index 94e4329..9137602 100644
+--- a/solver.py
++++ b/solver.py
+@@ -84,7 +84,7 @@ class ReverseDiffusionPredictor(Predictor):
+       adj_mean = adj - f
+       adj = adj_mean + G[:, None, None] * z
+       return adj, adj_mean
+-    
++
+     else:
+       raise NotImplementedError(f"obj {self.obj} not yet supported.")
+ 
+@@ -150,17 +150,19 @@ class LangevinCorrector(Corrector):
+ 
+ 
+ # -------- PC sampler --------
+-def get_pc_sampler(sde_x, sde_adj, shape_x, shape_adj, predictor='Euler', corrector='None', 
+-                   snr=0.1, scale_eps=1.0, n_steps=1, 
++def get_pc_sampler(sde_x, sde_adj, shape_x, shape_adj, predictor='Euler', corrector='None',
++                   snr=0.1, scale_eps=1.0, n_steps=1,
+                    probability_flow=False, continuous=False,
+                    denoise=True, eps=1e-3, device='cuda'):
+ 
+-  def pc_sampler(model_x, model_adj, init_flags):
++  def pc_sampler(model_x, model_adj, init_flags, initial_x=None, initial_adj=None):
++    # Optional custom initial state (e.g. for interpolation probe): same mask, only initial noise differs.
++    use_custom_init = initial_x is not None and initial_adj is not None
+ 
+     score_fn_x = get_score_fn(sde_x, model_x, train=False, continuous=continuous)
+     score_fn_adj = get_score_fn(sde_adj, model_adj, train=False, continuous=continuous)
+ 
+-    predictor_fn = ReverseDiffusionPredictor if predictor=='Reverse' else EulerMaruyamaPredictor 
++    predictor_fn = ReverseDiffusionPredictor if predictor=='Reverse' else EulerMaruyamaPredictor
+     corrector_fn = LangevinCorrector if corrector=='Langevin' else NoneCorrector
+ 
+     predictor_obj_x = predictor_fn('x', sde_x, score_fn_x, probability_flow)
+@@ -171,11 +173,16 @@ def get_pc_sampler(sde_x, sde_adj, shape_x, shape_adj, predictor='Euler', correc
+ 
+     with torch.no_grad():
+       # -------- Initial sample --------
+-      x = sde_x.prior_sampling(shape_x).to(device) 
+-      adj = sde_adj.prior_sampling_sym(shape_adj).to(device) 
+-      flags = init_flags
+-      x = mask_x(x, flags)
+-      adj = mask_adjs(adj, flags)
++      if use_custom_init:
++        x = initial_x.to(device)
++        adj = initial_adj.to(device)
++        flags = init_flags
++      else:
++        x = sde_x.prior_sampling(shape_x).to(device)
++        adj = sde_adj.prior_sampling_sym(shape_adj).to(device)
++        flags = init_flags
++        x = mask_x(x, flags)
++        adj = mask_adjs(adj, flags)
+       diff_steps = sde_adj.N
+       timesteps = torch.linspace(sde_adj.T, eps, diff_steps, device=device)
+ 
+@@ -197,8 +204,8 @@ def get_pc_sampler(sde_x, sde_adj, shape_x, shape_adj, predictor='Euler', correc
+ 
+ 
+ # -------- S4 solver --------
+-def S4_solver(sde_x, sde_adj, shape_x, shape_adj, predictor='None', corrector='None', 
+-                        snr=0.1, scale_eps=1.0, n_steps=1, 
++def S4_solver(sde_x, sde_adj, shape_x, shape_adj, predictor='None', corrector='None',
++                        snr=0.1, scale_eps=1.0, n_steps=1,
+                         probability_flow=False, continuous=False,
+                         denoise=True, eps=1e-3, device='cuda'):
+ 
+@@ -209,8 +216,8 @@ def S4_solver(sde_x, sde_adj, shape_x, shape_adj, predictor='None', corrector='N
+ 
+     with torch.no_grad():
+       # -------- Initial sample --------
+-      x = sde_x.prior_sampling(shape_x).to(device) 
+-      adj = sde_adj.prior_sampling_sym(shape_adj).to(device) 
++      x = sde_x.prior_sampling(shape_x).to(device)
++      adj = sde_adj.prior_sampling_sym(shape_adj).to(device)
+       flags = init_flags
+       x = mask_x(x, flags)
+       adj = mask_adjs(adj, flags)
+@@ -222,7 +229,7 @@ def S4_solver(sde_x, sde_adj, shape_x, shape_adj, predictor='None', corrector='N
+       for i in trange(0, (diff_steps), desc = '[Sampling]', position = 1, leave=False):
+         t = timesteps[i]
+         vec_t = torch.ones(shape_adj[0], device=t.device) * t
+-        vec_dt = torch.ones(shape_adj[0], device=t.device) * (dt/2) 
++        vec_dt = torch.ones(shape_adj[0], device=t.device) * (dt/2)
+ 
+         # -------- Score computation --------
+         score_x = score_fn_x(x, adj, flags, vec_t)
+@@ -241,7 +248,7 @@ def S4_solver(sde_x, sde_adj, shape_x, shape_adj, predictor='None', corrector='N
+           alpha = sde_x.alphas.to(vec_t.device)[timestep]
+         else:
+           alpha = torch.ones_like(vec_t)
+-      
++
+         step_size = (snr * noise_norm / grad_norm) ** 2 * 2 * alpha
+         x_mean = x + step_size[:, None, None] * score_x
+         x = x_mean + torch.sqrt(step_size * 2)[:, None, None] * noise * scale_eps
+@@ -261,15 +268,15 @@ def S4_solver(sde_x, sde_adj, shape_x, shape_adj, predictor='None', corrector='N
+         x_mean = x
+         adj_mean = adj
+         mu_x, sigma_x = sde_x.transition(x, vec_t, vec_dt)
+-        mu_adj, sigma_adj = sde_adj.transition(adj, vec_t, vec_dt) 
++        mu_adj, sigma_adj = sde_adj.transition(adj, vec_t, vec_dt)
+         x = mu_x + sigma_x[:, None, None] * gen_noise(x, flags, sym=False)
+         adj = mu_adj + sigma_adj[:, None, None] * gen_noise(adj, flags)
+-        
++
+         x = x + Sdrift_x * dt
+         adj = adj + Sdrift_adj * dt
+ 
+-        mu_x, sigma_x = sde_x.transition(x, vec_t + vec_dt, vec_dt) 
+-        mu_adj, sigma_adj = sde_adj.transition(adj, vec_t + vec_dt, vec_dt) 
++        mu_x, sigma_x = sde_x.transition(x, vec_t + vec_dt, vec_dt)
++        mu_adj, sigma_adj = sde_adj.transition(adj, vec_t + vec_dt, vec_dt)
+         x = mu_x + sigma_x[:, None, None] * gen_noise(x, flags, sym=False)
+         adj = mu_adj + sigma_adj[:, None, None] * gen_noise(adj, flags)
+ 

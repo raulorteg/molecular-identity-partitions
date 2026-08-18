@@ -1,0 +1,61 @@
+{
+  "tag": "last_molminer-2026-tess_15",
+  "epoch": 15,
+  "K": 20,
+  "conventions": {
+    "canonical": {
+      "median_J": 0.0,
+      "mean_J": 0.00033271648197094687,
+      "q25_J": 0.0,
+      "q75_J": 0.0,
+      "universe_N": 5296,
+      "median_ball_classes": 257.5,
+      "dropped_frac": 0.0
+    },
+    "inchikey": {
+      "median_J": 0.0,
+      "mean_J": 0.00033352547878684257,
+      "q25_J": 0.0,
+      "q75_J": 0.0,
+      "universe_N": 5280,
+      "median_ball_classes": 256.5,
+      "dropped_frac": 0.0
+    },
+    "murcko": {
+      "median_J": 0.003976284584980237,
+      "mean_J": 0.006059318266872362,
+      "q25_J": 0.0,
+      "q75_J": 0.0076191302336340505,
+      "universe_N": 1829,
+      "median_ball_classes": 90.5,
+      "dropped_frac": 0.04151014274981217
+    },
+    "murcko_generic": {
+      "median_J": 0.024465060601526263,
+      "mean_J": 0.034568521513294925,
+      "q25_J": 0.010869565217391304,
+      "q75_J": 0.05206570241575627,
+      "universe_N": 929,
+      "median_ball_classes": 54.5,
+      "dropped_frac": 0.04151014274981217
+    },
+    "formula": {
+      "median_J": 0.0,
+      "mean_J": 0.007856468970379202,
+      "q25_J": 0.0,
+      "q75_J": 0.007582994984475758,
+      "universe_N": 2651,
+      "median_ball_classes": 156.5,
+      "dropped_frac": 0.0
+    },
+    "composition": {
+      "median_J": 0.2857142857142857,
+      "mean_J": 0.30489452753445745,
+      "q25_J": 0.18323863636363635,
+      "q75_J": 0.4255952380952381,
+      "universe_N": 24,
+      "median_ball_classes": 6.0,
+      "dropped_frac": 0.0
+    }
+  }
+}

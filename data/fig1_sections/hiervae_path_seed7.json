@@ -1,0 +1,1402 @@
+[
+  {
+    "alpha": 0.0,
+    "smiles": "Cc1nc(NC(=O)C2CCCC(C)C2)sc1C#N",
+    "inchi": "InChI=1S/C13H17N3OS/c1-8-4-3-5-10(6-8)12(17)16-13-15-9(2)11(7-14)18-13/h8,10H,3-6H2,1-2H3,(H,15,16,17)",
+    "inchikey_first": "NCRQFMCGUYZBTI",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.005025125628140704,
+    "smiles": "Cc1nc(NC(=O)C2CCCC(C)C2)sc1C#N",
+    "inchi": "InChI=1S/C13H17N3OS/c1-8-4-3-5-10(6-8)12(17)16-13-15-9(2)11(7-14)18-13/h8,10H,3-6H2,1-2H3,(H,15,16,17)",
+    "inchikey_first": "NCRQFMCGUYZBTI",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.010050251256281407,
+    "smiles": "Cc1nc(NC(=O)C2CCCC(C)C2)sc1C#N",
+    "inchi": "InChI=1S/C13H17N3OS/c1-8-4-3-5-10(6-8)12(17)16-13-15-9(2)11(7-14)18-13/h8,10H,3-6H2,1-2H3,(H,15,16,17)",
+    "inchikey_first": "NCRQFMCGUYZBTI",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.01507537688442211,
+    "smiles": "Cc1nc(NC(=O)C2CCCC(C)C2)sc1C#N",
+    "inchi": "InChI=1S/C13H17N3OS/c1-8-4-3-5-10(6-8)12(17)16-13-15-9(2)11(7-14)18-13/h8,10H,3-6H2,1-2H3,(H,15,16,17)",
+    "inchikey_first": "NCRQFMCGUYZBTI",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.020100502512562814,
+    "smiles": "Cc1nc(NC(=O)C2CCCC(C)C2)sc1C#N",
+    "inchi": "InChI=1S/C13H17N3OS/c1-8-4-3-5-10(6-8)12(17)16-13-15-9(2)11(7-14)18-13/h8,10H,3-6H2,1-2H3,(H,15,16,17)",
+    "inchikey_first": "NCRQFMCGUYZBTI",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.02512562814070352,
+    "smiles": "Cc1nc(NC(=O)C2CCCC(C)C2)sc1C#N",
+    "inchi": "InChI=1S/C13H17N3OS/c1-8-4-3-5-10(6-8)12(17)16-13-15-9(2)11(7-14)18-13/h8,10H,3-6H2,1-2H3,(H,15,16,17)",
+    "inchikey_first": "NCRQFMCGUYZBTI",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.03015075376884422,
+    "smiles": "COC(=O)C1C(c2ccccc2)OC(=O)CN1C(C)C=C(C)C",
+    "inchi": "InChI=1S/C18H23NO4/c1-12(2)10-13(3)19-11-15(20)23-17(16(19)18(21)22-4)14-8-6-5-7-9-14/h5-10,13,16-17H,11H2,1-4H3",
+    "inchikey_first": "DQEGUOCFCVUVCR",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.035175879396984924,
+    "smiles": "CC(C)=CC(C)N1CCOC(C(=O)Nc2cc(C)on2)C1",
+    "inchi": "InChI=1S/C15H23N3O3/c1-10(2)7-11(3)18-5-6-20-13(9-18)15(19)16-14-8-12(4)21-17-14/h7-8,11,13H,5-6,9H2,1-4H3,(H,16,17,19)",
+    "inchikey_first": "PRSPBABYHSSLJD",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.04020100502512563,
+    "smiles": "CC(C)=CC(C)N1CCOC(C(=O)Nc2cc(C)on2)C1",
+    "inchi": "InChI=1S/C15H23N3O3/c1-10(2)7-11(3)18-5-6-20-13(9-18)15(19)16-14-8-12(4)21-17-14/h7-8,11,13H,5-6,9H2,1-4H3,(H,16,17,19)",
+    "inchikey_first": "PRSPBABYHSSLJD",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.04522613065326633,
+    "smiles": "CC(C)c1cc(C(=O)N2CC(C#N)OCC2(C)C)on1",
+    "inchi": "InChI=1S/C14H19N3O3/c1-9(2)11-5-12(20-16-11)13(18)17-7-10(6-15)19-8-14(17,3)4/h5,9-10H,7-8H2,1-4H3",
+    "inchikey_first": "CXGUWLRDDHDWPC",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.05025125628140704,
+    "smiles": "CC(C)c1cc(C(=O)N2CC(C#N)OCC2(C)C)on1",
+    "inchi": "InChI=1S/C14H19N3O3/c1-9(2)11-5-12(20-16-11)13(18)17-7-10(6-15)19-8-14(17,3)4/h5,9-10H,7-8H2,1-4H3",
+    "inchikey_first": "CXGUWLRDDHDWPC",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.05527638190954774,
+    "smiles": "CC(C)c1cc(C(=O)N2CC(C#N)OCC2(C)C)on1",
+    "inchi": "InChI=1S/C14H19N3O3/c1-9(2)11-5-12(20-16-11)13(18)17-7-10(6-15)19-8-14(17,3)4/h5,9-10H,7-8H2,1-4H3",
+    "inchikey_first": "CXGUWLRDDHDWPC",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.06030150753768844,
+    "smiles": "CC(C)c1cc(C(=O)N2CC(C#N)OCC2(C)C)on1",
+    "inchi": "InChI=1S/C14H19N3O3/c1-9(2)11-5-12(20-16-11)13(18)17-7-10(6-15)19-8-14(17,3)4/h5,9-10H,7-8H2,1-4H3",
+    "inchikey_first": "CXGUWLRDDHDWPC",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.06532663316582915,
+    "smiles": "Cc1csc(NC(=O)c2cc(C(C)C)no2)n1",
+    "inchi": "InChI=1S/C11H13N3O2S/c1-6(2)8-4-9(16-14-8)10(15)13-11-12-7(3)5-17-11/h4-6H,1-3H3,(H,12,13,15)",
+    "inchikey_first": "NHNLIOBNDONCOX",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.07035175879396985,
+    "smiles": "Cc1csc(NC(=O)c2cc(C(C)C)no2)n1",
+    "inchi": "InChI=1S/C11H13N3O2S/c1-6(2)8-4-9(16-14-8)10(15)13-11-12-7(3)5-17-11/h4-6H,1-3H3,(H,12,13,15)",
+    "inchikey_first": "NHNLIOBNDONCOX",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.07537688442211056,
+    "smiles": "Cc1csc(NC(=O)c2cc(C(C)C)no2)n1",
+    "inchi": "InChI=1S/C11H13N3O2S/c1-6(2)8-4-9(16-14-8)10(15)13-11-12-7(3)5-17-11/h4-6H,1-3H3,(H,12,13,15)",
+    "inchikey_first": "NHNLIOBNDONCOX",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.08040201005025126,
+    "smiles": "Cc1csc(NC(=O)c2cc(C(C)C)no2)n1",
+    "inchi": "InChI=1S/C11H13N3O2S/c1-6(2)8-4-9(16-14-8)10(15)13-11-12-7(3)5-17-11/h4-6H,1-3H3,(H,12,13,15)",
+    "inchikey_first": "NHNLIOBNDONCOX",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.08542713567839195,
+    "smiles": "O=C(c1cc(-c2ccco2)on1)N1CCOC(C(=O)N2CCOCC2)C1",
+    "inchi": "InChI=1S/C17H19N3O6/c21-16(12-10-14(26-18-12)13-2-1-6-24-13)20-5-9-25-15(11-20)17(22)19-3-7-23-8-4-19/h1-2,6,10,15H,3-5,7-9,11H2",
+    "inchikey_first": "HYHFOUKETYRGRL",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.09045226130653267,
+    "smiles": "O=C(c1cc(-c2ccco2)on1)N1CCOC(C(=O)N2CCOCC2)C1",
+    "inchi": "InChI=1S/C17H19N3O6/c21-16(12-10-14(26-18-12)13-2-1-6-24-13)20-5-9-25-15(11-20)17(22)19-3-7-23-8-4-19/h1-2,6,10,15H,3-5,7-9,11H2",
+    "inchikey_first": "HYHFOUKETYRGRL",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.09547738693467336,
+    "smiles": "O=C(c1cc(-c2ccco2)on1)N1CCOC(C(=O)N2CCOCC2)C1",
+    "inchi": "InChI=1S/C17H19N3O6/c21-16(12-10-14(26-18-12)13-2-1-6-24-13)20-5-9-25-15(11-20)17(22)19-3-7-23-8-4-19/h1-2,6,10,15H,3-5,7-9,11H2",
+    "inchikey_first": "HYHFOUKETYRGRL",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.10050251256281408,
+    "smiles": "O=C(c1cc(-c2ccco2)on1)N1CCOC(C(=O)N2CCOCC2)C1",
+    "inchi": "InChI=1S/C17H19N3O6/c21-16(12-10-14(26-18-12)13-2-1-6-24-13)20-5-9-25-15(11-20)17(22)19-3-7-23-8-4-19/h1-2,6,10,15H,3-5,7-9,11H2",
+    "inchikey_first": "HYHFOUKETYRGRL",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.10552763819095477,
+    "smiles": "O=C(c1cc(-c2ccco2)on1)N1CCOC(C(=O)N2CCOCC2)C1",
+    "inchi": "InChI=1S/C17H19N3O6/c21-16(12-10-14(26-18-12)13-2-1-6-24-13)20-5-9-25-15(11-20)17(22)19-3-7-23-8-4-19/h1-2,6,10,15H,3-5,7-9,11H2",
+    "inchikey_first": "HYHFOUKETYRGRL",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.11055276381909548,
+    "smiles": "O=C(c1cc(-c2ccco2)on1)N1CCOC(C(=O)N2CCOCC2)C1",
+    "inchi": "InChI=1S/C17H19N3O6/c21-16(12-10-14(26-18-12)13-2-1-6-24-13)20-5-9-25-15(11-20)17(22)19-3-7-23-8-4-19/h1-2,6,10,15H,3-5,7-9,11H2",
+    "inchikey_first": "HYHFOUKETYRGRL",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.11557788944723618,
+    "smiles": "O=C(c1cc(-c2ccco2)on1)N1CCOC(C(=O)N2CCOCC2)C1",
+    "inchi": "InChI=1S/C17H19N3O6/c21-16(12-10-14(26-18-12)13-2-1-6-24-13)20-5-9-25-15(11-20)17(22)19-3-7-23-8-4-19/h1-2,6,10,15H,3-5,7-9,11H2",
+    "inchikey_first": "HYHFOUKETYRGRL",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.12060301507537688,
+    "smiles": "O=C(c1cc(-c2ccco2)on1)N1CCOC(C(=O)N2CCOCC2)C1",
+    "inchi": "InChI=1S/C17H19N3O6/c21-16(12-10-14(26-18-12)13-2-1-6-24-13)20-5-9-25-15(11-20)17(22)19-3-7-23-8-4-19/h1-2,6,10,15H,3-5,7-9,11H2",
+    "inchikey_first": "HYHFOUKETYRGRL",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.12562814070351758,
+    "smiles": "O=C(c1cc(-c2ccco2)on1)N1CCOC(C(=O)N2CCOCC2)C1",
+    "inchi": "InChI=1S/C17H19N3O6/c21-16(12-10-14(26-18-12)13-2-1-6-24-13)20-5-9-25-15(11-20)17(22)19-3-7-23-8-4-19/h1-2,6,10,15H,3-5,7-9,11H2",
+    "inchikey_first": "HYHFOUKETYRGRL",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.1306532663316583,
+    "smiles": "O=C(c1cc(-c2ccco2)on1)N1CCOC(C(=O)N2CCOCC2)C1",
+    "inchi": "InChI=1S/C17H19N3O6/c21-16(12-10-14(26-18-12)13-2-1-6-24-13)20-5-9-25-15(11-20)17(22)19-3-7-23-8-4-19/h1-2,6,10,15H,3-5,7-9,11H2",
+    "inchikey_first": "HYHFOUKETYRGRL",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.135678391959799,
+    "smiles": "O=C(c1cc(-c2ccco2)on1)N1CCOC(C(=O)N2CCOCC2)C1",
+    "inchi": "InChI=1S/C17H19N3O6/c21-16(12-10-14(26-18-12)13-2-1-6-24-13)20-5-9-25-15(11-20)17(22)19-3-7-23-8-4-19/h1-2,6,10,15H,3-5,7-9,11H2",
+    "inchikey_first": "HYHFOUKETYRGRL",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.1407035175879397,
+    "smiles": "O=C(c1cc(-c2ccco2)on1)N1CCOC(C(=O)N2CCOCC2)C1",
+    "inchi": "InChI=1S/C17H19N3O6/c21-16(12-10-14(26-18-12)13-2-1-6-24-13)20-5-9-25-15(11-20)17(22)19-3-7-23-8-4-19/h1-2,6,10,15H,3-5,7-9,11H2",
+    "inchikey_first": "HYHFOUKETYRGRL",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.1457286432160804,
+    "smiles": "O=C(c1cc(-c2ccco2)on1)N1CCOC(C(=O)N2CCOCC2)C1",
+    "inchi": "InChI=1S/C17H19N3O6/c21-16(12-10-14(26-18-12)13-2-1-6-24-13)20-5-9-25-15(11-20)17(22)19-3-7-23-8-4-19/h1-2,6,10,15H,3-5,7-9,11H2",
+    "inchikey_first": "HYHFOUKETYRGRL",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.15075376884422112,
+    "smiles": "O=C(c1cc(-c2ccco2)on1)N1CCOC(C(=O)N2CCOCC2)C1",
+    "inchi": "InChI=1S/C17H19N3O6/c21-16(12-10-14(26-18-12)13-2-1-6-24-13)20-5-9-25-15(11-20)17(22)19-3-7-23-8-4-19/h1-2,6,10,15H,3-5,7-9,11H2",
+    "inchikey_first": "HYHFOUKETYRGRL",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.15577889447236182,
+    "smiles": "O=C(c1cc(-c2ccco2)on1)N1CCOC(C(=O)N2CCOCC2)C1",
+    "inchi": "InChI=1S/C17H19N3O6/c21-16(12-10-14(26-18-12)13-2-1-6-24-13)20-5-9-25-15(11-20)17(22)19-3-7-23-8-4-19/h1-2,6,10,15H,3-5,7-9,11H2",
+    "inchikey_first": "HYHFOUKETYRGRL",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.16080402010050251,
+    "smiles": "O=C(c1cc(-c2ccco2)on1)N1CCOC(C(=O)N2CCOCC2)C1",
+    "inchi": "InChI=1S/C17H19N3O6/c21-16(12-10-14(26-18-12)13-2-1-6-24-13)20-5-9-25-15(11-20)17(22)19-3-7-23-8-4-19/h1-2,6,10,15H,3-5,7-9,11H2",
+    "inchikey_first": "HYHFOUKETYRGRL",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.1658291457286432,
+    "smiles": "O=C(c1cc(-c2ccco2)on1)N1CCOC(C(=O)N2CCOCC2)C1",
+    "inchi": "InChI=1S/C17H19N3O6/c21-16(12-10-14(26-18-12)13-2-1-6-24-13)20-5-9-25-15(11-20)17(22)19-3-7-23-8-4-19/h1-2,6,10,15H,3-5,7-9,11H2",
+    "inchikey_first": "HYHFOUKETYRGRL",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.1708542713567839,
+    "smiles": "O=C(Nc1ccccc1)C1CN(C(=O)c2cc(-c3ccco3)on2)CCO1",
+    "inchi": "InChI=1S/C19H17N3O5/c23-18(20-13-5-2-1-3-6-13)17-12-22(8-10-26-17)19(24)14-11-16(27-21-14)15-7-4-9-25-15/h1-7,9,11,17H,8,10,12H2,(H,20,23)",
+    "inchikey_first": "DEUWRWYWHZPSRU",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.17587939698492464,
+    "smiles": "O=C(Nc1ccccc1)C1CN(C(=O)c2cc(-c3ccco3)on2)CCO1",
+    "inchi": "InChI=1S/C19H17N3O5/c23-18(20-13-5-2-1-3-6-13)17-12-22(8-10-26-17)19(24)14-11-16(27-21-14)15-7-4-9-25-15/h1-7,9,11,17H,8,10,12H2,(H,20,23)",
+    "inchikey_first": "DEUWRWYWHZPSRU",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.18090452261306533,
+    "smiles": "O=C(C=Cc1cc(-c2ccco2)no1)N1CCOc2ccccc21",
+    "inchi": "InChI=1S/C18H14N2O4/c21-18(20-9-11-23-17-5-2-1-4-15(17)20)8-7-13-12-14(19-24-13)16-6-3-10-22-16/h1-8,10,12H,9,11H2",
+    "inchikey_first": "KVLQMBLYAFILGJ",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.18592964824120603,
+    "smiles": "O=C(C=Cc1cc(-c2ccco2)no1)N1CCOc2ccccc21",
+    "inchi": "InChI=1S/C18H14N2O4/c21-18(20-9-11-23-17-5-2-1-4-15(17)20)8-7-13-12-14(19-24-13)16-6-3-10-22-16/h1-8,10,12H,9,11H2",
+    "inchikey_first": "KVLQMBLYAFILGJ",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.19095477386934673,
+    "smiles": "O=C(C=Cc1cc(-c2ccco2)no1)N1CCOc2ccccc21",
+    "inchi": "InChI=1S/C18H14N2O4/c21-18(20-9-11-23-17-5-2-1-4-15(17)20)8-7-13-12-14(19-24-13)16-6-3-10-22-16/h1-8,10,12H,9,11H2",
+    "inchikey_first": "KVLQMBLYAFILGJ",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.19597989949748745,
+    "smiles": "O=C(C=Cc1cc(-c2ccco2)no1)N1CCOc2ccccc21",
+    "inchi": "InChI=1S/C18H14N2O4/c21-18(20-9-11-23-17-5-2-1-4-15(17)20)8-7-13-12-14(19-24-13)16-6-3-10-22-16/h1-8,10,12H,9,11H2",
+    "inchikey_first": "KVLQMBLYAFILGJ",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.20100502512562815,
+    "smiles": "O=C(C=Cc1cc(-c2ccco2)no1)N1CCOc2ccccc21",
+    "inchi": "InChI=1S/C18H14N2O4/c21-18(20-9-11-23-17-5-2-1-4-15(17)20)8-7-13-12-14(19-24-13)16-6-3-10-22-16/h1-8,10,12H,9,11H2",
+    "inchikey_first": "KVLQMBLYAFILGJ",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.20603015075376885,
+    "smiles": "O=C(C=Cc1cc(-c2ccco2)no1)N1CCOc2ccccc21",
+    "inchi": "InChI=1S/C18H14N2O4/c21-18(20-9-11-23-17-5-2-1-4-15(17)20)8-7-13-12-14(19-24-13)16-6-3-10-22-16/h1-8,10,12H,9,11H2",
+    "inchikey_first": "KVLQMBLYAFILGJ",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.21105527638190955,
+    "smiles": "O=C([O-])C1CN(C(=O)Cc2cc(N3CCOCC3)on2)CCO1",
+    "inchi": "InChI=1S/C14H19N3O6/c18-12(17-3-6-22-11(9-17)14(19)20)7-10-8-13(23-15-10)16-1-4-21-5-2-16/h8,11H,1-7,9H2,(H,19,20)/p-1",
+    "inchikey_first": "AYYKFWLXQCSFDX",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.21608040201005024,
+    "smiles": "O=C([O-])C1CN(C(=O)Cc2cc(N3CCOCC3)on2)CCO1",
+    "inchi": "InChI=1S/C14H19N3O6/c18-12(17-3-6-22-11(9-17)14(19)20)7-10-8-13(23-15-10)16-1-4-21-5-2-16/h8,11H,1-7,9H2,(H,19,20)/p-1",
+    "inchikey_first": "AYYKFWLXQCSFDX",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.22110552763819097,
+    "smiles": "O=C([O-])C1CN(C(=O)Cc2cc(N3CCOCC3)on2)CCO1",
+    "inchi": "InChI=1S/C14H19N3O6/c18-12(17-3-6-22-11(9-17)14(19)20)7-10-8-13(23-15-10)16-1-4-21-5-2-16/h8,11H,1-7,9H2,(H,19,20)/p-1",
+    "inchikey_first": "AYYKFWLXQCSFDX",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.22613065326633167,
+    "smiles": "O=C([O-])C1CN(C(=O)Cc2cc(N3CCOCC3)on2)CCO1",
+    "inchi": "InChI=1S/C14H19N3O6/c18-12(17-3-6-22-11(9-17)14(19)20)7-10-8-13(23-15-10)16-1-4-21-5-2-16/h8,11H,1-7,9H2,(H,19,20)/p-1",
+    "inchikey_first": "AYYKFWLXQCSFDX",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.23115577889447236,
+    "smiles": "O=C([O-])C1CN(C(=O)Cc2cc(N3CCOCC3)on2)CCO1",
+    "inchi": "InChI=1S/C14H19N3O6/c18-12(17-3-6-22-11(9-17)14(19)20)7-10-8-13(23-15-10)16-1-4-21-5-2-16/h8,11H,1-7,9H2,(H,19,20)/p-1",
+    "inchikey_first": "AYYKFWLXQCSFDX",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.23618090452261306,
+    "smiles": "O=C([O-])C1CN(C(=O)Cc2cc(N3CCOCC3)on2)CCO1",
+    "inchi": "InChI=1S/C14H19N3O6/c18-12(17-3-6-22-11(9-17)14(19)20)7-10-8-13(23-15-10)16-1-4-21-5-2-16/h8,11H,1-7,9H2,(H,19,20)/p-1",
+    "inchikey_first": "AYYKFWLXQCSFDX",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.24120603015075376,
+    "smiles": "O=C([O-])C1CN(C(=O)Cc2cc(N3CCOCC3)on2)CCO1",
+    "inchi": "InChI=1S/C14H19N3O6/c18-12(17-3-6-22-11(9-17)14(19)20)7-10-8-13(23-15-10)16-1-4-21-5-2-16/h8,11H,1-7,9H2,(H,19,20)/p-1",
+    "inchikey_first": "AYYKFWLXQCSFDX",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.24623115577889448,
+    "smiles": "O=C([O-])C1CN(C(=O)Cc2cc(N3CCOCC3)on2)CCO1",
+    "inchi": "InChI=1S/C14H19N3O6/c18-12(17-3-6-22-11(9-17)14(19)20)7-10-8-13(23-15-10)16-1-4-21-5-2-16/h8,11H,1-7,9H2,(H,19,20)/p-1",
+    "inchikey_first": "AYYKFWLXQCSFDX",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.25125628140703515,
+    "smiles": "O=C([O-])C1CN(C(=O)Cc2cc(N3CCOCC3)on2)CCO1",
+    "inchi": "InChI=1S/C14H19N3O6/c18-12(17-3-6-22-11(9-17)14(19)20)7-10-8-13(23-15-10)16-1-4-21-5-2-16/h8,11H,1-7,9H2,(H,19,20)/p-1",
+    "inchikey_first": "AYYKFWLXQCSFDX",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.2562814070351759,
+    "smiles": "O=C([O-])C1CN(C(=O)Cc2cc(N3CCOCC3)on2)CCO1",
+    "inchi": "InChI=1S/C14H19N3O6/c18-12(17-3-6-22-11(9-17)14(19)20)7-10-8-13(23-15-10)16-1-4-21-5-2-16/h8,11H,1-7,9H2,(H,19,20)/p-1",
+    "inchikey_first": "AYYKFWLXQCSFDX",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.2613065326633166,
+    "smiles": "O=C([O-])C1CN(C(=O)Cc2cc(N3CCOCC3)on2)CCO1",
+    "inchi": "InChI=1S/C14H19N3O6/c18-12(17-3-6-22-11(9-17)14(19)20)7-10-8-13(23-15-10)16-1-4-21-5-2-16/h8,11H,1-7,9H2,(H,19,20)/p-1",
+    "inchikey_first": "AYYKFWLXQCSFDX",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.2663316582914573,
+    "smiles": "O=C([O-])C1CN(C(=O)Cc2cc(N3CCOCC3)on2)CCO1",
+    "inchi": "InChI=1S/C14H19N3O6/c18-12(17-3-6-22-11(9-17)14(19)20)7-10-8-13(23-15-10)16-1-4-21-5-2-16/h8,11H,1-7,9H2,(H,19,20)/p-1",
+    "inchikey_first": "AYYKFWLXQCSFDX",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.271356783919598,
+    "smiles": "O=C(Cc1cc(N2CCOCC2)on1)N1CCOC(c2ccccc2)C1",
+    "inchi": "InChI=1S/C19H23N3O4/c23-18(12-16-13-19(26-20-16)21-6-9-24-10-7-21)22-8-11-25-17(14-22)15-4-2-1-3-5-15/h1-5,13,17H,6-12,14H2",
+    "inchikey_first": "SBJNLXFSQPKHMS",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.2763819095477387,
+    "smiles": "O=C(Cc1cc(N2CCOCC2)on1)N1CCOC(c2ccccc2)C1",
+    "inchi": "InChI=1S/C19H23N3O4/c23-18(12-16-13-19(26-20-16)21-6-9-24-10-7-21)22-8-11-25-17(14-22)15-4-2-1-3-5-15/h1-5,13,17H,6-12,14H2",
+    "inchikey_first": "SBJNLXFSQPKHMS",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.2814070351758794,
+    "smiles": "O=C(Cc1cc(N2CCOCC2)on1)N1CCOC(c2ccccc2)C1",
+    "inchi": "InChI=1S/C19H23N3O4/c23-18(12-16-13-19(26-20-16)21-6-9-24-10-7-21)22-8-11-25-17(14-22)15-4-2-1-3-5-15/h1-5,13,17H,6-12,14H2",
+    "inchikey_first": "SBJNLXFSQPKHMS",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.2864321608040201,
+    "smiles": "O=C(Cc1cc(N2CCOCC2)on1)N1CCOC(c2ccccc2)C1",
+    "inchi": "InChI=1S/C19H23N3O4/c23-18(12-16-13-19(26-20-16)21-6-9-24-10-7-21)22-8-11-25-17(14-22)15-4-2-1-3-5-15/h1-5,13,17H,6-12,14H2",
+    "inchikey_first": "SBJNLXFSQPKHMS",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.2914572864321608,
+    "smiles": "O=C(Cc1cc(N2CCOCC2)on1)N1CCOC(c2ccccc2)C1",
+    "inchi": "InChI=1S/C19H23N3O4/c23-18(12-16-13-19(26-20-16)21-6-9-24-10-7-21)22-8-11-25-17(14-22)15-4-2-1-3-5-15/h1-5,13,17H,6-12,14H2",
+    "inchikey_first": "SBJNLXFSQPKHMS",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.2964824120603015,
+    "smiles": "O=C(Cc1cc(N2CCOCC2)on1)N1CCOC(c2ccccc2)C1",
+    "inchi": "InChI=1S/C19H23N3O4/c23-18(12-16-13-19(26-20-16)21-6-9-24-10-7-21)22-8-11-25-17(14-22)15-4-2-1-3-5-15/h1-5,13,17H,6-12,14H2",
+    "inchikey_first": "SBJNLXFSQPKHMS",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.30150753768844224,
+    "smiles": "O=C(Cc1cc(N2CCOCC2)on1)N1CCOC(c2ccccc2)C1",
+    "inchi": "InChI=1S/C19H23N3O4/c23-18(12-16-13-19(26-20-16)21-6-9-24-10-7-21)22-8-11-25-17(14-22)15-4-2-1-3-5-15/h1-5,13,17H,6-12,14H2",
+    "inchikey_first": "SBJNLXFSQPKHMS",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.3065326633165829,
+    "smiles": "O=C(Cc1cc(N2CCOCC2)on1)N1CCOC(c2ccccc2)C1",
+    "inchi": "InChI=1S/C19H23N3O4/c23-18(12-16-13-19(26-20-16)21-6-9-24-10-7-21)22-8-11-25-17(14-22)15-4-2-1-3-5-15/h1-5,13,17H,6-12,14H2",
+    "inchikey_first": "SBJNLXFSQPKHMS",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.31155778894472363,
+    "smiles": "O=C(Cc1cc(N2CCOCC2)on1)N1CCOC(c2ccccc2)C1",
+    "inchi": "InChI=1S/C19H23N3O4/c23-18(12-16-13-19(26-20-16)21-6-9-24-10-7-21)22-8-11-25-17(14-22)15-4-2-1-3-5-15/h1-5,13,17H,6-12,14H2",
+    "inchikey_first": "SBJNLXFSQPKHMS",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.3165829145728643,
+    "smiles": "O=C(Cc1cc(N2CCCC2)[nH]n1)Nc1cc(-c2ccco2)ccc1[N+](=O)[O-]",
+    "inchi": "InChI=1S/C19H19N5O4/c25-19(12-14-11-18(22-21-14)23-7-1-2-8-23)20-15-10-13(17-4-3-9-28-17)5-6-16(15)24(26)27/h3-6,9-11H,1-2,7-8,12H2,(H,20,25)(H,21,22)",
+    "inchikey_first": "VHTHSKITULCVPQ",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.32160804020100503,
+    "smiles": "O=C(Cc1cc(N2CCCC2)[nH]n1)Nc1cc(-c2ccco2)ccc1[N+](=O)[O-]",
+    "inchi": "InChI=1S/C19H19N5O4/c25-19(12-14-11-18(22-21-14)23-7-1-2-8-23)20-15-10-13(17-4-3-9-28-17)5-6-16(15)24(26)27/h3-6,9-11H,1-2,7-8,12H2,(H,20,25)(H,21,22)",
+    "inchikey_first": "VHTHSKITULCVPQ",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.32663316582914576,
+    "smiles": "O=C(Cc1cc(N2CCCC2)[nH]n1)Nc1cc(-c2ccco2)ccc1[N+](=O)[O-]",
+    "inchi": "InChI=1S/C19H19N5O4/c25-19(12-14-11-18(22-21-14)23-7-1-2-8-23)20-15-10-13(17-4-3-9-28-17)5-6-16(15)24(26)27/h3-6,9-11H,1-2,7-8,12H2,(H,20,25)(H,21,22)",
+    "inchikey_first": "VHTHSKITULCVPQ",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.3316582914572864,
+    "smiles": "N#Cc1ccc(Cl)c(NC(=O)Cc2cc(N3CCCC3)[nH]n2)c1",
+    "inchi": "InChI=1S/C16H16ClN5O/c17-13-4-3-11(10-18)7-14(13)19-16(23)9-12-8-15(21-20-12)22-5-1-2-6-22/h3-4,7-8H,1-2,5-6,9H2,(H,19,23)(H,20,21)",
+    "inchikey_first": "ZFUUWYFJKVILPI",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.33668341708542715,
+    "smiles": "N#Cc1ccc(NC(=O)Cc2cc(N3CCCC3)[nH]n2)cc1",
+    "inchi": "InChI=1S/C16H17N5O/c17-11-12-3-5-13(6-4-12)18-16(22)10-14-9-15(20-19-14)21-7-1-2-8-21/h3-6,9H,1-2,7-8,10H2,(H,18,22)(H,19,20)",
+    "inchikey_first": "RNEAAZIJLYNWTF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.3417085427135678,
+    "smiles": "N#Cc1ccc(NC(=O)Cc2cc(N3CCCC3)[nH]n2)cc1",
+    "inchi": "InChI=1S/C16H17N5O/c17-11-12-3-5-13(6-4-12)18-16(22)10-14-9-15(20-19-14)21-7-1-2-8-21/h3-6,9H,1-2,7-8,10H2,(H,18,22)(H,19,20)",
+    "inchikey_first": "RNEAAZIJLYNWTF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.34673366834170855,
+    "smiles": "N#Cc1ccc(NC(=O)Cc2cc(N3CCCC3)[nH]n2)cc1",
+    "inchi": "InChI=1S/C16H17N5O/c17-11-12-3-5-13(6-4-12)18-16(22)10-14-9-15(20-19-14)21-7-1-2-8-21/h3-6,9H,1-2,7-8,10H2,(H,18,22)(H,19,20)",
+    "inchikey_first": "RNEAAZIJLYNWTF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.35175879396984927,
+    "smiles": "N#Cc1ccc(NC(=O)Cc2cc(N3CCCC3)[nH]n2)cc1",
+    "inchi": "InChI=1S/C16H17N5O/c17-11-12-3-5-13(6-4-12)18-16(22)10-14-9-15(20-19-14)21-7-1-2-8-21/h3-6,9H,1-2,7-8,10H2,(H,18,22)(H,19,20)",
+    "inchikey_first": "RNEAAZIJLYNWTF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.35678391959798994,
+    "smiles": "N#Cc1ccc(NC(=O)Cc2cc(N3CCCC3)[nH]n2)cc1",
+    "inchi": "InChI=1S/C16H17N5O/c17-11-12-3-5-13(6-4-12)18-16(22)10-14-9-15(20-19-14)21-7-1-2-8-21/h3-6,9H,1-2,7-8,10H2,(H,18,22)(H,19,20)",
+    "inchikey_first": "RNEAAZIJLYNWTF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.36180904522613067,
+    "smiles": "N#Cc1ccc(NC(=O)Cc2cc(N3CCCC3)[nH]n2)cc1",
+    "inchi": "InChI=1S/C16H17N5O/c17-11-12-3-5-13(6-4-12)18-16(22)10-14-9-15(20-19-14)21-7-1-2-8-21/h3-6,9H,1-2,7-8,10H2,(H,18,22)(H,19,20)",
+    "inchikey_first": "RNEAAZIJLYNWTF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.36683417085427134,
+    "smiles": "N#Cc1ccc(NC(=O)Cc2cc(N3CCCC3)[nH]n2)cc1",
+    "inchi": "InChI=1S/C16H17N5O/c17-11-12-3-5-13(6-4-12)18-16(22)10-14-9-15(20-19-14)21-7-1-2-8-21/h3-6,9H,1-2,7-8,10H2,(H,18,22)(H,19,20)",
+    "inchikey_first": "RNEAAZIJLYNWTF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.37185929648241206,
+    "smiles": "N#Cc1ccc(NC(=O)Cc2cc(N3CCCC3)[nH]n2)cc1",
+    "inchi": "InChI=1S/C16H17N5O/c17-11-12-3-5-13(6-4-12)18-16(22)10-14-9-15(20-19-14)21-7-1-2-8-21/h3-6,9H,1-2,7-8,10H2,(H,18,22)(H,19,20)",
+    "inchikey_first": "RNEAAZIJLYNWTF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.3768844221105528,
+    "smiles": "N#Cc1ccc(NC(=O)Cc2cc(N3CCCC3)[nH]n2)cc1",
+    "inchi": "InChI=1S/C16H17N5O/c17-11-12-3-5-13(6-4-12)18-16(22)10-14-9-15(20-19-14)21-7-1-2-8-21/h3-6,9H,1-2,7-8,10H2,(H,18,22)(H,19,20)",
+    "inchikey_first": "RNEAAZIJLYNWTF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.38190954773869346,
+    "smiles": "N#Cc1ccc(NC(=O)Cc2cc(N3CCCC3)[nH]n2)cc1",
+    "inchi": "InChI=1S/C16H17N5O/c17-11-12-3-5-13(6-4-12)18-16(22)10-14-9-15(20-19-14)21-7-1-2-8-21/h3-6,9H,1-2,7-8,10H2,(H,18,22)(H,19,20)",
+    "inchikey_first": "RNEAAZIJLYNWTF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.3869346733668342,
+    "smiles": "N#Cc1ccc(NC(=O)Cc2cc(N3CCCC3)[nH]n2)cc1",
+    "inchi": "InChI=1S/C16H17N5O/c17-11-12-3-5-13(6-4-12)18-16(22)10-14-9-15(20-19-14)21-7-1-2-8-21/h3-6,9H,1-2,7-8,10H2,(H,18,22)(H,19,20)",
+    "inchikey_first": "RNEAAZIJLYNWTF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.3919597989949749,
+    "smiles": "N#Cc1ccc(NC(=O)Cc2cc(N3CCCC3)[nH]n2)cc1",
+    "inchi": "InChI=1S/C16H17N5O/c17-11-12-3-5-13(6-4-12)18-16(22)10-14-9-15(20-19-14)21-7-1-2-8-21/h3-6,9H,1-2,7-8,10H2,(H,18,22)(H,19,20)",
+    "inchikey_first": "RNEAAZIJLYNWTF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.3969849246231156,
+    "smiles": "N#Cc1ccc(NC(=O)Cc2cc(N3CCCC3)[nH]n2)cc1",
+    "inchi": "InChI=1S/C16H17N5O/c17-11-12-3-5-13(6-4-12)18-16(22)10-14-9-15(20-19-14)21-7-1-2-8-21/h3-6,9H,1-2,7-8,10H2,(H,18,22)(H,19,20)",
+    "inchikey_first": "RNEAAZIJLYNWTF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.4020100502512563,
+    "smiles": "N#Cc1ccc(NC(=O)Cc2cc(N3CCCC3)[nH]n2)cc1",
+    "inchi": "InChI=1S/C16H17N5O/c17-11-12-3-5-13(6-4-12)18-16(22)10-14-9-15(20-19-14)21-7-1-2-8-21/h3-6,9H,1-2,7-8,10H2,(H,18,22)(H,19,20)",
+    "inchikey_first": "RNEAAZIJLYNWTF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.40703517587939697,
+    "smiles": "N#Cc1ccc(NC(=O)Cc2cc(N3CCCC3)[nH]n2)cc1",
+    "inchi": "InChI=1S/C16H17N5O/c17-11-12-3-5-13(6-4-12)18-16(22)10-14-9-15(20-19-14)21-7-1-2-8-21/h3-6,9H,1-2,7-8,10H2,(H,18,22)(H,19,20)",
+    "inchikey_first": "RNEAAZIJLYNWTF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.4120603015075377,
+    "smiles": "O=C(Cc1cc(-c2ccco2)[nH]n1)Nc1cc([N+](=O)[O-])ccc1Cl",
+    "inchi": "InChI=1S/C15H11ClN4O4/c16-11-4-3-10(20(22)23)8-12(11)17-15(21)7-9-6-13(19-18-9)14-2-1-5-24-14/h1-6,8H,7H2,(H,17,21)(H,18,19)",
+    "inchikey_first": "JFGKLRJMDGFECR",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.4170854271356784,
+    "smiles": "O=C(Cc1cc(-c2ccco2)[nH]n1)Nc1cc([N+](=O)[O-])ccc1Cl",
+    "inchi": "InChI=1S/C15H11ClN4O4/c16-11-4-3-10(20(22)23)8-12(11)17-15(21)7-9-6-13(19-18-9)14-2-1-5-24-14/h1-6,8H,7H2,(H,17,21)(H,18,19)",
+    "inchikey_first": "JFGKLRJMDGFECR",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.4221105527638191,
+    "smiles": "O=C(Cc1cc(-c2ccco2)[nH]n1)Nc1cc([N+](=O)[O-])ccc1Cl",
+    "inchi": "InChI=1S/C15H11ClN4O4/c16-11-4-3-10(20(22)23)8-12(11)17-15(21)7-9-6-13(19-18-9)14-2-1-5-24-14/h1-6,8H,7H2,(H,17,21)(H,18,19)",
+    "inchikey_first": "JFGKLRJMDGFECR",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.4271356783919598,
+    "smiles": "O=C(Cc1cc(-c2ccco2)[nH]n1)Nc1cc([N+](=O)[O-])ccc1Cl",
+    "inchi": "InChI=1S/C15H11ClN4O4/c16-11-4-3-10(20(22)23)8-12(11)17-15(21)7-9-6-13(19-18-9)14-2-1-5-24-14/h1-6,8H,7H2,(H,17,21)(H,18,19)",
+    "inchikey_first": "JFGKLRJMDGFECR",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.4321608040201005,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)N1CCOC2(C1)OCCO2",
+    "inchi": "InChI=1S/C17H18N2O5/c20-16(19-6-7-21-17(12-19)22-8-9-23-17)11-14-10-15(24-18-14)13-4-2-1-3-5-13/h1-5,10H,6-9,11-12H2",
+    "inchikey_first": "UMVGFRIKFJHMEQ",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.4371859296482412,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)N1CCOC2(C1)OCCO2",
+    "inchi": "InChI=1S/C17H18N2O5/c20-16(19-6-7-21-17(12-19)22-8-9-23-17)11-14-10-15(24-18-14)13-4-2-1-3-5-13/h1-5,10H,6-9,11-12H2",
+    "inchikey_first": "UMVGFRIKFJHMEQ",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.44221105527638194,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)N1CCOC2(C1)OCCO2",
+    "inchi": "InChI=1S/C17H18N2O5/c20-16(19-6-7-21-17(12-19)22-8-9-23-17)11-14-10-15(24-18-14)13-4-2-1-3-5-13/h1-5,10H,6-9,11-12H2",
+    "inchikey_first": "UMVGFRIKFJHMEQ",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.4472361809045226,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NC1C2CC=CCC21",
+    "inchi": "InChI=1S/C18H18N2O2/c21-17(19-18-14-8-4-5-9-15(14)18)11-13-10-16(22-20-13)12-6-2-1-3-7-12/h1-7,10,14-15,18H,8-9,11H2,(H,19,21)",
+    "inchikey_first": "PUCJXOFPUKNRCH",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.45226130653266333,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NC1C2CC=CCC21",
+    "inchi": "InChI=1S/C18H18N2O2/c21-17(19-18-14-8-4-5-9-15(14)18)11-13-10-16(22-20-13)12-6-2-1-3-7-12/h1-7,10,14-15,18H,8-9,11H2,(H,19,21)",
+    "inchikey_first": "PUCJXOFPUKNRCH",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.457286432160804,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NC1C2CC=CCC21",
+    "inchi": "InChI=1S/C18H18N2O2/c21-17(19-18-14-8-4-5-9-15(14)18)11-13-10-16(22-20-13)12-6-2-1-3-7-12/h1-7,10,14-15,18H,8-9,11H2,(H,19,21)",
+    "inchikey_first": "PUCJXOFPUKNRCH",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.4623115577889447,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NC1C2CC=CCC21",
+    "inchi": "InChI=1S/C18H18N2O2/c21-17(19-18-14-8-4-5-9-15(14)18)11-13-10-16(22-20-13)12-6-2-1-3-7-12/h1-7,10,14-15,18H,8-9,11H2,(H,19,21)",
+    "inchikey_first": "PUCJXOFPUKNRCH",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.46733668341708545,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NC1C2CC=CCC21",
+    "inchi": "InChI=1S/C18H18N2O2/c21-17(19-18-14-8-4-5-9-15(14)18)11-13-10-16(22-20-13)12-6-2-1-3-7-12/h1-7,10,14-15,18H,8-9,11H2,(H,19,21)",
+    "inchikey_first": "PUCJXOFPUKNRCH",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.4723618090452261,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NC1C2CC=CCC21",
+    "inchi": "InChI=1S/C18H18N2O2/c21-17(19-18-14-8-4-5-9-15(14)18)11-13-10-16(22-20-13)12-6-2-1-3-7-12/h1-7,10,14-15,18H,8-9,11H2,(H,19,21)",
+    "inchikey_first": "PUCJXOFPUKNRCH",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.47738693467336685,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NC1C2CC=CCC21",
+    "inchi": "InChI=1S/C18H18N2O2/c21-17(19-18-14-8-4-5-9-15(14)18)11-13-10-16(22-20-13)12-6-2-1-3-7-12/h1-7,10,14-15,18H,8-9,11H2,(H,19,21)",
+    "inchikey_first": "PUCJXOFPUKNRCH",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.4824120603015075,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NC1C2CC=CCC21",
+    "inchi": "InChI=1S/C18H18N2O2/c21-17(19-18-14-8-4-5-9-15(14)18)11-13-10-16(22-20-13)12-6-2-1-3-7-12/h1-7,10,14-15,18H,8-9,11H2,(H,19,21)",
+    "inchikey_first": "PUCJXOFPUKNRCH",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.48743718592964824,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NC1C2CC=CCC21",
+    "inchi": "InChI=1S/C18H18N2O2/c21-17(19-18-14-8-4-5-9-15(14)18)11-13-10-16(22-20-13)12-6-2-1-3-7-12/h1-7,10,14-15,18H,8-9,11H2,(H,19,21)",
+    "inchikey_first": "PUCJXOFPUKNRCH",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.49246231155778897,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NC1C2CC=CCC21",
+    "inchi": "InChI=1S/C18H18N2O2/c21-17(19-18-14-8-4-5-9-15(14)18)11-13-10-16(22-20-13)12-6-2-1-3-7-12/h1-7,10,14-15,18H,8-9,11H2,(H,19,21)",
+    "inchikey_first": "PUCJXOFPUKNRCH",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.49748743718592964,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NC1C2CC=CCC21",
+    "inchi": "InChI=1S/C18H18N2O2/c21-17(19-18-14-8-4-5-9-15(14)18)11-13-10-16(22-20-13)12-6-2-1-3-7-12/h1-7,10,14-15,18H,8-9,11H2,(H,19,21)",
+    "inchikey_first": "PUCJXOFPUKNRCH",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.5025125628140703,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NC1C2CC=CCC21",
+    "inchi": "InChI=1S/C18H18N2O2/c21-17(19-18-14-8-4-5-9-15(14)18)11-13-10-16(22-20-13)12-6-2-1-3-7-12/h1-7,10,14-15,18H,8-9,11H2,(H,19,21)",
+    "inchikey_first": "PUCJXOFPUKNRCH",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.507537688442211,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NC1C2CC=CCC21",
+    "inchi": "InChI=1S/C18H18N2O2/c21-17(19-18-14-8-4-5-9-15(14)18)11-13-10-16(22-20-13)12-6-2-1-3-7-12/h1-7,10,14-15,18H,8-9,11H2,(H,19,21)",
+    "inchikey_first": "PUCJXOFPUKNRCH",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.5125628140703518,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NC1C2CC=CCC21",
+    "inchi": "InChI=1S/C18H18N2O2/c21-17(19-18-14-8-4-5-9-15(14)18)11-13-10-16(22-20-13)12-6-2-1-3-7-12/h1-7,10,14-15,18H,8-9,11H2,(H,19,21)",
+    "inchikey_first": "PUCJXOFPUKNRCH",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.5175879396984925,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NC1C2CC=CCC21",
+    "inchi": "InChI=1S/C18H18N2O2/c21-17(19-18-14-8-4-5-9-15(14)18)11-13-10-16(22-20-13)12-6-2-1-3-7-12/h1-7,10,14-15,18H,8-9,11H2,(H,19,21)",
+    "inchikey_first": "PUCJXOFPUKNRCH",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.5226130653266332,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NC1C2CC=CCC21",
+    "inchi": "InChI=1S/C18H18N2O2/c21-17(19-18-14-8-4-5-9-15(14)18)11-13-10-16(22-20-13)12-6-2-1-3-7-12/h1-7,10,14-15,18H,8-9,11H2,(H,19,21)",
+    "inchikey_first": "PUCJXOFPUKNRCH",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.5276381909547738,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NC1C2CC=CCC21",
+    "inchi": "InChI=1S/C18H18N2O2/c21-17(19-18-14-8-4-5-9-15(14)18)11-13-10-16(22-20-13)12-6-2-1-3-7-12/h1-7,10,14-15,18H,8-9,11H2,(H,19,21)",
+    "inchikey_first": "PUCJXOFPUKNRCH",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.5326633165829145,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.5376884422110553,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.542713567839196,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.5477386934673367,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.5527638190954774,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.5577889447236181,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.5628140703517588,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.5678391959798995,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.5728643216080402,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.577889447236181,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.5829145728643216,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.5879396984924623,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.592964824120603,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.5979899497487438,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.6030150753768845,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.6080402010050251,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.6130653266331658,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.6180904522613065,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.6231155778894473,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.628140703517588,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.6331658291457286,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.6381909547738693,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.6432160804020101,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.6482412060301508,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CCCO1",
+    "inchi": "InChI=1S/C16H18N2O3/c19-16(17-11-14-7-4-8-20-14)10-13-9-15(21-18-13)12-5-2-1-3-6-12/h1-3,5-6,9,14H,4,7-8,10-11H2,(H,17,19)",
+    "inchikey_first": "ODFVXKNJMGQVAW",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.6532663316582915,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CC1",
+    "inchi": "InChI=1S/C15H16N2O2/c18-15(16-10-11-6-7-11)9-13-8-14(19-17-13)12-4-2-1-3-5-12/h1-5,8,11H,6-7,9-10H2,(H,16,18)",
+    "inchikey_first": "ASYQFFNKXFFHMO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.6582914572864321,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CC1",
+    "inchi": "InChI=1S/C15H16N2O2/c18-15(16-10-11-6-7-11)9-13-8-14(19-17-13)12-4-2-1-3-5-12/h1-5,8,11H,6-7,9-10H2,(H,16,18)",
+    "inchikey_first": "ASYQFFNKXFFHMO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.6633165829145728,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CC1",
+    "inchi": "InChI=1S/C15H16N2O2/c18-15(16-10-11-6-7-11)9-13-8-14(19-17-13)12-4-2-1-3-5-12/h1-5,8,11H,6-7,9-10H2,(H,16,18)",
+    "inchikey_first": "ASYQFFNKXFFHMO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.6683417085427136,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CC1",
+    "inchi": "InChI=1S/C15H16N2O2/c18-15(16-10-11-6-7-11)9-13-8-14(19-17-13)12-4-2-1-3-5-12/h1-5,8,11H,6-7,9-10H2,(H,16,18)",
+    "inchikey_first": "ASYQFFNKXFFHMO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.6733668341708543,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CC1",
+    "inchi": "InChI=1S/C15H16N2O2/c18-15(16-10-11-6-7-11)9-13-8-14(19-17-13)12-4-2-1-3-5-12/h1-5,8,11H,6-7,9-10H2,(H,16,18)",
+    "inchikey_first": "ASYQFFNKXFFHMO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.678391959798995,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CC1",
+    "inchi": "InChI=1S/C15H16N2O2/c18-15(16-10-11-6-7-11)9-13-8-14(19-17-13)12-4-2-1-3-5-12/h1-5,8,11H,6-7,9-10H2,(H,16,18)",
+    "inchikey_first": "ASYQFFNKXFFHMO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.6834170854271356,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CC1",
+    "inchi": "InChI=1S/C15H16N2O2/c18-15(16-10-11-6-7-11)9-13-8-14(19-17-13)12-4-2-1-3-5-12/h1-5,8,11H,6-7,9-10H2,(H,16,18)",
+    "inchikey_first": "ASYQFFNKXFFHMO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.6884422110552764,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CC1",
+    "inchi": "InChI=1S/C15H16N2O2/c18-15(16-10-11-6-7-11)9-13-8-14(19-17-13)12-4-2-1-3-5-12/h1-5,8,11H,6-7,9-10H2,(H,16,18)",
+    "inchikey_first": "ASYQFFNKXFFHMO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.6934673366834171,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CC1",
+    "inchi": "InChI=1S/C15H16N2O2/c18-15(16-10-11-6-7-11)9-13-8-14(19-17-13)12-4-2-1-3-5-12/h1-5,8,11H,6-7,9-10H2,(H,16,18)",
+    "inchikey_first": "ASYQFFNKXFFHMO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.6984924623115578,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CC1",
+    "inchi": "InChI=1S/C15H16N2O2/c18-15(16-10-11-6-7-11)9-13-8-14(19-17-13)12-4-2-1-3-5-12/h1-5,8,11H,6-7,9-10H2,(H,16,18)",
+    "inchikey_first": "ASYQFFNKXFFHMO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7035175879396985,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CC1",
+    "inchi": "InChI=1S/C15H16N2O2/c18-15(16-10-11-6-7-11)9-13-8-14(19-17-13)12-4-2-1-3-5-12/h1-5,8,11H,6-7,9-10H2,(H,16,18)",
+    "inchikey_first": "ASYQFFNKXFFHMO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7085427135678392,
+    "smiles": "O=C(Cc1cc(-c2ccccc2)on1)NCC1CC1",
+    "inchi": "InChI=1S/C15H16N2O2/c18-15(16-10-11-6-7-11)9-13-8-14(19-17-13)12-4-2-1-3-5-12/h1-5,8,11H,6-7,9-10H2,(H,16,18)",
+    "inchikey_first": "ASYQFFNKXFFHMO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7135678391959799,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCC1COc2ccccc2O1",
+    "inchi": "InChI=1S/C19H21NO3S/c21-19(10-15-9-13-5-1-4-8-18(13)24-15)20-11-14-12-22-16-6-2-3-7-17(16)23-14/h2-3,6-7,9,14H,1,4-5,8,10-12H2,(H,20,21)",
+    "inchikey_first": "CCDSBRUJLZIACR",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7185929648241206,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCC1COc2ccccc2O1",
+    "inchi": "InChI=1S/C19H21NO3S/c21-19(10-15-9-13-5-1-4-8-18(13)24-15)20-11-14-12-22-16-6-2-3-7-17(16)23-14/h2-3,6-7,9,14H,1,4-5,8,10-12H2,(H,20,21)",
+    "inchikey_first": "CCDSBRUJLZIACR",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7236180904522613,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCC1COc2ccccc2O1",
+    "inchi": "InChI=1S/C19H21NO3S/c21-19(10-15-9-13-5-1-4-8-18(13)24-15)20-11-14-12-22-16-6-2-3-7-17(16)23-14/h2-3,6-7,9,14H,1,4-5,8,10-12H2,(H,20,21)",
+    "inchikey_first": "CCDSBRUJLZIACR",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7286432160804021,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCC1COc2ccccc2O1",
+    "inchi": "InChI=1S/C19H21NO3S/c21-19(10-15-9-13-5-1-4-8-18(13)24-15)20-11-14-12-22-16-6-2-3-7-17(16)23-14/h2-3,6-7,9,14H,1,4-5,8,10-12H2,(H,20,21)",
+    "inchikey_first": "CCDSBRUJLZIACR",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7336683417085427,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7386934673366834,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7437185929648241,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7487437185929648,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7537688442211056,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7587939698492463,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7638190954773869,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7688442211055276,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7738693467336684,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7788944723618091,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7839195979899498,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7889447236180904,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7939698492462312,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.7989949748743719,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.8040201005025126,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.8090452261306533,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.8140703517587939,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.8190954773869347,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.8241206030150754,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.8291457286432161,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.8341708542713568,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.8391959798994975,
+    "smiles": "O=C(Cc1cc2c(s1)CCCC2)NCCc1ccccc1",
+    "inchi": "InChI=1S/C18H21NOS/c20-18(19-11-10-14-6-2-1-3-7-14)13-16-12-15-8-4-5-9-17(15)21-16/h1-3,6-7,12H,4-5,8-11,13H2,(H,19,20)",
+    "inchikey_first": "SUUQKWLKWRMUKO",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.8442211055276382,
+    "smiles": "O=C1NCCN1Cc1cccc(CS(=O)(=O)CC2CC2)c1",
+    "inchi": "InChI=1S/C15H20N2O3S/c18-15-16-6-7-17(15)9-13-2-1-3-14(8-13)11-21(19,20)10-12-4-5-12/h1-3,8,12H,4-7,9-11H2,(H,16,18)",
+    "inchikey_first": "ZLACVZBKCZWIDE",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.8492462311557789,
+    "smiles": "O=C1NCCN1Cc1cccc(CS(=O)(=O)CC2CC2)c1",
+    "inchi": "InChI=1S/C15H20N2O3S/c18-15-16-6-7-17(15)9-13-2-1-3-14(8-13)11-21(19,20)10-12-4-5-12/h1-3,8,12H,4-7,9-11H2,(H,16,18)",
+    "inchikey_first": "ZLACVZBKCZWIDE",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.8542713567839196,
+    "smiles": "O=C1NCCN1Cc1cccc(CS(=O)(=O)CC2CC2)c1",
+    "inchi": "InChI=1S/C15H20N2O3S/c18-15-16-6-7-17(15)9-13-2-1-3-14(8-13)11-21(19,20)10-12-4-5-12/h1-3,8,12H,4-7,9-11H2,(H,16,18)",
+    "inchikey_first": "ZLACVZBKCZWIDE",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.8592964824120604,
+    "smiles": "O=C1NCCN1Cc1cccc(CS(=O)(=O)CC2CC2)c1",
+    "inchi": "InChI=1S/C15H20N2O3S/c18-15-16-6-7-17(15)9-13-2-1-3-14(8-13)11-21(19,20)10-12-4-5-12/h1-3,8,12H,4-7,9-11H2,(H,16,18)",
+    "inchikey_first": "ZLACVZBKCZWIDE",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.864321608040201,
+    "smiles": "O=C1NCCN1Cc1cccc(CS(=O)(=O)CC2CC2)c1",
+    "inchi": "InChI=1S/C15H20N2O3S/c18-15-16-6-7-17(15)9-13-2-1-3-14(8-13)11-21(19,20)10-12-4-5-12/h1-3,8,12H,4-7,9-11H2,(H,16,18)",
+    "inchikey_first": "ZLACVZBKCZWIDE",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.8693467336683417,
+    "smiles": "O=C1NCCN1Cc1cccc(CS(=O)(=O)CC2CC2)c1",
+    "inchi": "InChI=1S/C15H20N2O3S/c18-15-16-6-7-17(15)9-13-2-1-3-14(8-13)11-21(19,20)10-12-4-5-12/h1-3,8,12H,4-7,9-11H2,(H,16,18)",
+    "inchikey_first": "ZLACVZBKCZWIDE",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.8743718592964824,
+    "smiles": "O=C1NCCN1Cc1cccc(CS(=O)(=O)CC2CC2)c1",
+    "inchi": "InChI=1S/C15H20N2O3S/c18-15-16-6-7-17(15)9-13-2-1-3-14(8-13)11-21(19,20)10-12-4-5-12/h1-3,8,12H,4-7,9-11H2,(H,16,18)",
+    "inchikey_first": "ZLACVZBKCZWIDE",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.8793969849246231,
+    "smiles": "O=C1NCCN1Cc1cccc(CS(=O)(=O)CC2CC2)c1",
+    "inchi": "InChI=1S/C15H20N2O3S/c18-15-16-6-7-17(15)9-13-2-1-3-14(8-13)11-21(19,20)10-12-4-5-12/h1-3,8,12H,4-7,9-11H2,(H,16,18)",
+    "inchikey_first": "ZLACVZBKCZWIDE",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.8844221105527639,
+    "smiles": "O=C1NCCN1Cc1cccc(CS(=O)(=O)CC2CC2)c1",
+    "inchi": "InChI=1S/C15H20N2O3S/c18-15-16-6-7-17(15)9-13-2-1-3-14(8-13)11-21(19,20)10-12-4-5-12/h1-3,8,12H,4-7,9-11H2,(H,16,18)",
+    "inchikey_first": "ZLACVZBKCZWIDE",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.8894472361809045,
+    "smiles": "O=C1NCCN1Cc1cccc(CS(=O)(=O)CC2CC2)c1",
+    "inchi": "InChI=1S/C15H20N2O3S/c18-15-16-6-7-17(15)9-13-2-1-3-14(8-13)11-21(19,20)10-12-4-5-12/h1-3,8,12H,4-7,9-11H2,(H,16,18)",
+    "inchikey_first": "ZLACVZBKCZWIDE",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.8944723618090452,
+    "smiles": "O=C1NCCN1CCc1cccc(CS(=O)(=O)C2CC2)c1",
+    "inchi": "InChI=1S/C15H20N2O3S/c18-15-16-7-9-17(15)8-6-12-2-1-3-13(10-12)11-21(19,20)14-4-5-14/h1-3,10,14H,4-9,11H2,(H,16,18)",
+    "inchikey_first": "HHRYUCOLMCUVHA",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.8994974874371859,
+    "smiles": "O=C1NCCN1CCc1cccc(CS(=O)(=O)C2CC2)c1",
+    "inchi": "InChI=1S/C15H20N2O3S/c18-15-16-7-9-17(15)8-6-12-2-1-3-13(10-12)11-21(19,20)14-4-5-14/h1-3,10,14H,4-9,11H2,(H,16,18)",
+    "inchikey_first": "HHRYUCOLMCUVHA",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.9045226130653267,
+    "smiles": "N#CCc1cccc(CS(=O)CN2CCNC2=O)c1",
+    "inchi": "InChI=1S/C13H15N3O2S/c14-5-4-11-2-1-3-12(8-11)9-19(18)10-16-7-6-15-13(16)17/h1-3,8H,4,6-7,9-10H2,(H,15,17)",
+    "inchikey_first": "NQJJYQHXMYVUED",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.9095477386934674,
+    "smiles": "N#CCc1cccc(CS(=O)CN2CCNC2=O)c1",
+    "inchi": "InChI=1S/C13H15N3O2S/c14-5-4-11-2-1-3-12(8-11)9-19(18)10-16-7-6-15-13(16)17/h1-3,8H,4,6-7,9-10H2,(H,15,17)",
+    "inchikey_first": "NQJJYQHXMYVUED",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.914572864321608,
+    "smiles": "N#CCc1cccc(CS(=O)CN2CCNC2=O)c1",
+    "inchi": "InChI=1S/C13H15N3O2S/c14-5-4-11-2-1-3-12(8-11)9-19(18)10-16-7-6-15-13(16)17/h1-3,8H,4,6-7,9-10H2,(H,15,17)",
+    "inchikey_first": "NQJJYQHXMYVUED",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.9195979899497487,
+    "smiles": "N#CCc1cccc(CS(=O)CN2CCNC2=O)c1",
+    "inchi": "InChI=1S/C13H15N3O2S/c14-5-4-11-2-1-3-12(8-11)9-19(18)10-16-7-6-15-13(16)17/h1-3,8H,4,6-7,9-10H2,(H,15,17)",
+    "inchikey_first": "NQJJYQHXMYVUED",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.9246231155778895,
+    "smiles": "N#CCc1cccc(CS(=O)CC(=O)NC2CC2)c1",
+    "inchi": "InChI=1S/C14H16N2O2S/c15-7-6-11-2-1-3-12(8-11)9-19(18)10-14(17)16-13-4-5-13/h1-3,8,13H,4-6,9-10H2,(H,16,17)",
+    "inchikey_first": "HXCJYYWERKGYHY",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.9296482412060302,
+    "smiles": "N#CCc1cccc(CS(=O)CC(=O)NC2CC2)c1",
+    "inchi": "InChI=1S/C14H16N2O2S/c15-7-6-11-2-1-3-12(8-11)9-19(18)10-14(17)16-13-4-5-13/h1-3,8,13H,4-6,9-10H2,(H,16,17)",
+    "inchikey_first": "HXCJYYWERKGYHY",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.9346733668341709,
+    "smiles": "O=C(NC1CC1)S(=O)(=O)Cc1cccc(CC[NH+]2CCCC2)c1",
+    "inchi": "InChI=1S/C17H24N2O3S/c20-17(18-16-6-7-16)23(21,22)13-15-5-3-4-14(12-15)8-11-19-9-1-2-10-19/h3-5,12,16H,1-2,6-11,13H2,(H,18,20)/p+1",
+    "inchikey_first": "MYGRTTDLBOKKKF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.9396984924623115,
+    "smiles": "O=C(NC1CC1)S(=O)(=O)Cc1cccc(CC[NH+]2CCCC2)c1",
+    "inchi": "InChI=1S/C17H24N2O3S/c20-17(18-16-6-7-16)23(21,22)13-15-5-3-4-14(12-15)8-11-19-9-1-2-10-19/h3-5,12,16H,1-2,6-11,13H2,(H,18,20)/p+1",
+    "inchikey_first": "MYGRTTDLBOKKKF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.9447236180904522,
+    "smiles": "O=C(NC1CC1)S(=O)(=O)Cc1cccc(CC[NH+]2CCCC2)c1",
+    "inchi": "InChI=1S/C17H24N2O3S/c20-17(18-16-6-7-16)23(21,22)13-15-5-3-4-14(12-15)8-11-19-9-1-2-10-19/h3-5,12,16H,1-2,6-11,13H2,(H,18,20)/p+1",
+    "inchikey_first": "MYGRTTDLBOKKKF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.949748743718593,
+    "smiles": "O=C(NC1CC1)S(=O)(=O)Cc1cccc(CC[NH+]2CCCC2)c1",
+    "inchi": "InChI=1S/C17H24N2O3S/c20-17(18-16-6-7-16)23(21,22)13-15-5-3-4-14(12-15)8-11-19-9-1-2-10-19/h3-5,12,16H,1-2,6-11,13H2,(H,18,20)/p+1",
+    "inchikey_first": "MYGRTTDLBOKKKF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.9547738693467337,
+    "smiles": "O=C(NC1CC1)S(=O)(=O)Cc1cccc(CC[NH+]2CCCC2)c1",
+    "inchi": "InChI=1S/C17H24N2O3S/c20-17(18-16-6-7-16)23(21,22)13-15-5-3-4-14(12-15)8-11-19-9-1-2-10-19/h3-5,12,16H,1-2,6-11,13H2,(H,18,20)/p+1",
+    "inchikey_first": "MYGRTTDLBOKKKF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.9597989949748744,
+    "smiles": "O=C(NC1CC1)S(=O)(=O)Cc1cccc(CC[NH+]2CCCC2)c1",
+    "inchi": "InChI=1S/C17H24N2O3S/c20-17(18-16-6-7-16)23(21,22)13-15-5-3-4-14(12-15)8-11-19-9-1-2-10-19/h3-5,12,16H,1-2,6-11,13H2,(H,18,20)/p+1",
+    "inchikey_first": "MYGRTTDLBOKKKF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.964824120603015,
+    "smiles": "O=C(NC1CC1)S(=O)(=O)Cc1cccc(CC[NH+]2CCCC2)c1",
+    "inchi": "InChI=1S/C17H24N2O3S/c20-17(18-16-6-7-16)23(21,22)13-15-5-3-4-14(12-15)8-11-19-9-1-2-10-19/h3-5,12,16H,1-2,6-11,13H2,(H,18,20)/p+1",
+    "inchikey_first": "MYGRTTDLBOKKKF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.9698492462311558,
+    "smiles": "O=C(NC1CC1)S(=O)(=O)Cc1cccc(CC[NH+]2CCCC2)c1",
+    "inchi": "InChI=1S/C17H24N2O3S/c20-17(18-16-6-7-16)23(21,22)13-15-5-3-4-14(12-15)8-11-19-9-1-2-10-19/h3-5,12,16H,1-2,6-11,13H2,(H,18,20)/p+1",
+    "inchikey_first": "MYGRTTDLBOKKKF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.9748743718592965,
+    "smiles": "O=C(NC1CC1)S(=O)(=O)Cc1cccc(CC[NH+]2CCCC2)c1",
+    "inchi": "InChI=1S/C17H24N2O3S/c20-17(18-16-6-7-16)23(21,22)13-15-5-3-4-14(12-15)8-11-19-9-1-2-10-19/h3-5,12,16H,1-2,6-11,13H2,(H,18,20)/p+1",
+    "inchikey_first": "MYGRTTDLBOKKKF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.9798994974874372,
+    "smiles": "O=C(NC1CC1)S(=O)(=O)Cc1cccc(CC[NH+]2CCCC2)c1",
+    "inchi": "InChI=1S/C17H24N2O3S/c20-17(18-16-6-7-16)23(21,22)13-15-5-3-4-14(12-15)8-11-19-9-1-2-10-19/h3-5,12,16H,1-2,6-11,13H2,(H,18,20)/p+1",
+    "inchikey_first": "MYGRTTDLBOKKKF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.9849246231155779,
+    "smiles": "O=C(NC1CC1)S(=O)(=O)Cc1cccc(CC[NH+]2CCCC2)c1",
+    "inchi": "InChI=1S/C17H24N2O3S/c20-17(18-16-6-7-16)23(21,22)13-15-5-3-4-14(12-15)8-11-19-9-1-2-10-19/h3-5,12,16H,1-2,6-11,13H2,(H,18,20)/p+1",
+    "inchikey_first": "MYGRTTDLBOKKKF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.9899497487437187,
+    "smiles": "O=C(NC1CC1)S(=O)(=O)Cc1cccc(CC[NH+]2CCCC2)c1",
+    "inchi": "InChI=1S/C17H24N2O3S/c20-17(18-16-6-7-16)23(21,22)13-15-5-3-4-14(12-15)8-11-19-9-1-2-10-19/h3-5,12,16H,1-2,6-11,13H2,(H,18,20)/p+1",
+    "inchikey_first": "MYGRTTDLBOKKKF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 0.9949748743718593,
+    "smiles": "O=C(NC1CC1)S(=O)(=O)Cc1cccc(CC[NH+]2CCCC2)c1",
+    "inchi": "InChI=1S/C17H24N2O3S/c20-17(18-16-6-7-16)23(21,22)13-15-5-3-4-14(12-15)8-11-19-9-1-2-10-19/h3-5,12,16H,1-2,6-11,13H2,(H,18,20)/p+1",
+    "inchikey_first": "MYGRTTDLBOKKKF",
+    "latent_ref": "seed=7"
+  },
+  {
+    "alpha": 1.0,
+    "smiles": "O=C(NC1CC1)S(=O)(=O)Cc1cccc(CC[NH+]2CCCC2)c1",
+    "inchi": "InChI=1S/C17H24N2O3S/c20-17(18-16-6-7-16)23(21,22)13-15-5-3-4-14(12-15)8-11-19-9-1-2-10-19/h3-5,12,16H,1-2,6-11,13H2,(H,18,20)/p+1",
+    "inchikey_first": "MYGRTTDLBOKKKF",
+    "latent_ref": "seed=7"
+  }
+]

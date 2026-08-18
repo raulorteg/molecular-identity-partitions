@@ -1,0 +1,51 @@
+Copyright (c) 2026 Raul Ortega-Ochoa, Tejs Vegge, Jens S. Bakander,
+Luis Mantilla Calderon, Alan Aspuru-Guzik, Tonio Buonassisi.
+
+This work is licensed under the Creative Commons Attribution 4.0 International
+License (CC BY 4.0).
+
+  Summary:    https://creativecommons.org/licenses/by/4.0/
+  Full text:  https://creativecommons.org/licenses/by/4.0/legalcode
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, link to the license, and
+indicate if changes were made. Attribution should cite:
+
+  R. Ortega-Ochoa, T. Vegge, J. S. Bakander, L. Mantilla Calderon,
+  A. Aspuru-Guzik, T. Buonassisi. "How Molecular Generative Models Organize
+  Molecular Identity." arXiv:2608.06956 (2026).
+
+
+WHAT THIS LICENSE COVERS
+
+Only the material authored for this repository:
+
+  scripts/    the analysis and plotting code
+  repro/      the entrypoints
+  data/       the shipped plot-ready analysis outputs
+  figures/    the rendered figures
+  envs/       the conda environment specifications
+  README.md and the SOURCE.md provenance notes
+
+
+WHAT IT DOES NOT COVER
+
+The three generative models this work probes are third-party software, and each
+carries its own license and its own terms of use. Nothing here grants any right
+to them:
+
+  MolMiner    https://github.com/raulorteg/molminer
+  HierVAE     https://github.com/wengong-jin/hgraph2graph
+  GDSS        https://github.com/harryjo97/GDSS
+
+Consult each upstream repository for its license before use or redistribution.
+
+The patch files under models/ are diffs against those upstream sources. They are
+provided only to reproduce the environment described in models/SETUP.md, and the
+upstream project's license governs the patched result.
+
+Model checkpoints are distributed separately (see the Zenodo records linked in
+README.md) under the terms stated in those records.
+
+The training data (ZINC) and any third-party dependency, RDKit included, remain
+subject to their own licenses.

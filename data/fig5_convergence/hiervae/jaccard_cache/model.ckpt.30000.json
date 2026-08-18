@@ -1,0 +1,61 @@
+{
+  "tag": "model.ckpt.30000",
+  "epoch": 30000,
+  "K": 30,
+  "conventions": {
+    "canonical": {
+      "median_J": 0.0,
+      "mean_J": 0.0,
+      "q25_J": 0.0,
+      "q75_J": 0.0,
+      "universe_N": 1806,
+      "median_ball_classes": 50.5,
+      "dropped_frac": 0.0
+    },
+    "inchikey": {
+      "median_J": 0.0,
+      "mean_J": 0.0,
+      "q25_J": 0.0,
+      "q75_J": 0.0,
+      "universe_N": 1803,
+      "median_ball_classes": 50.5,
+      "dropped_frac": 0.0
+    },
+    "murcko": {
+      "median_J": 0.0,
+      "mean_J": 0.008542629177304601,
+      "q25_J": 0.0,
+      "q75_J": 0.013606071825249907,
+      "universe_N": 905,
+      "median_ball_classes": 24.5,
+      "dropped_frac": 0.01937984496124031
+    },
+    "murcko_generic": {
+      "median_J": 0.038461538461538464,
+      "mean_J": 0.05189503609134513,
+      "q25_J": 0.010105134224762682,
+      "q75_J": 0.08135686707115278,
+      "universe_N": 543,
+      "median_ball_classes": 18.0,
+      "dropped_frac": 0.01937984496124031
+    },
+    "formula": {
+      "median_J": 0.0,
+      "mean_J": 0.0007478962830848405,
+      "q25_J": 0.0,
+      "q75_J": 0.0,
+      "universe_N": 1327,
+      "median_ball_classes": 31.5,
+      "dropped_frac": 0.0
+    },
+    "composition": {
+      "median_J": 0.2857142857142857,
+      "mean_J": 0.2974584471927805,
+      "q25_J": 0.17647058823529413,
+      "q75_J": 0.4,
+      "universe_N": 40,
+      "median_ball_classes": 6.0,
+      "dropped_frac": 0.0
+    }
+  }
+}

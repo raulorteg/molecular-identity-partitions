@@ -1,0 +1,9 @@
+figures/**/class_counts.csv
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+figures/reproducibility/
+repro/verify/
+checkpoints/
+common/

@@ -1,0 +1,17 @@
+{
+  "arch": "GDSS-native",
+  "fingerprint": "maccs",
+  "K": 30,
+  "n_pairs": 435,
+  "n_pairs_skipped_low_fp_count": 0,
+  "ols_slope": -0.003573123039156961,
+  "ols_intercept": 0.7136316534380678,
+  "R2_distance_vs_chem_distance": 0.01956921900776054,
+  "spearman_rho_d_vs_sim": 0.10868640002114113,
+  "spearman_p_alt_less": 0.9883058505295487,
+  "ols_slope_cos": -0.02542551036671564,
+  "ols_intercept_cos": 0.6271384889482159,
+  "R2_cosdist_vs_chem_distance": 0.0019039715589801443,
+  "spearman_rho_cos_vs_sim": -0.04764351120882149,
+  "spearman_p_cos_alt_greater": 0.8392519414537786
+}
